@@ -39,7 +39,7 @@ ticket text ─► TF-IDF (words + character n-grams) ─► logistic regression
   `reports/metrics.json`, `reports/results.md`, the confusion matrix and `reports/triaged_test_tickets.csv`.
 * `src/llm_triage.py` (optional) sends a sample to an LLM with the prompt in `prompts/triage_prompt.md`,
   checks the JSON answer against the allowed labels and compares it with the classic model.
-  It needs your own `ANTHROPIC_API_KEY`; the rest of the project runs without it.
+  It works with any OpenAI-compatible LLM API (hosted or local) and needs your own `LLM_API_KEY` and `LLM_MODEL`; the rest of the project runs without it.
 * `tests/` checks the data, the routing rules and the LLM answer parser; GitHub Actions runs them on every push.
 
 Why a classic model first? It is fast, cheap, explainable and runs offline. An LLM is used as a second
@@ -62,4 +62,4 @@ pytest -q
 
 ## Tools
 
-Python · pandas · scikit-learn · matplotlib · pytest · GitHub Actions · optional LLM API (Anthropic)
+Python · pandas · scikit-learn · matplotlib · pytest · GitHub Actions · optional LLM API (any OpenAI-compatible provider)

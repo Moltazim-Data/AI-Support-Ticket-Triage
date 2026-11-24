@@ -1,9 +1,14 @@
 """Optional: classify tickets with a large language model (LLM) and compare
 the answers with the classic model.
 
-Needs an API key in the environment (ANTHROPIC_API_KEY) and the
-`anthropic` package. Without a key the script explains what is missing and
-stops; the rest of the project works without it.
+Works with any provider that offers an OpenAI-compatible chat API
+(hosted or local, e.g. Ollama). Needs the `openai` package and these
+environment variables:
+    LLM_API_KEY   your key (any text for a local model)
+    LLM_MODEL     the model name of your provider
+    LLM_BASE_URL  optional, the provider's API address
+Without them the script explains what is missing and stops; the rest of the
+project works without it.
 
 Usage:
     python src/llm_triage.py --sample 50
@@ -34,25 +39,26 @@ def parse_answer(raw: str) -> dict:
 
 
 def classify(ticket: str, client, model: str) -> dict:
-    msg = client.messages.create(
+    resp = client.chat.completions.create(
         model=model,
         max_tokens=200,
+        temperature=0,
         messages=[{"role": "user", "content": PROMPT.replace("{ticket}", ticket)}],
     )
-    return parse_answer(msg.content[0].text)
+    return parse_answer(resp.choices[0].message.content)
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--sample", type=int, default=50)
-    ap.add_argument("--model", default=os.environ.get("LLM_MODEL", "claude-haiku-4-5"))
+    ap.add_argument("--model", default=os.environ.get("LLM_MODEL"))
     args = ap.parse_args()
 
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        sys.exit("Set ANTHROPIC_API_KEY to run the LLM comparison (optional step).")
-    import anthropic  # imported here so the main project does not depend on it
+    if not os.environ.get("LLM_API_KEY") or not args.model:
+        sys.exit("Set LLM_API_KEY and LLM_MODEL to run the LLM comparison (optional step).")
+    from openai import OpenAI  # imported here so the main project does not depend on it
 
-    client = anthropic.Anthropic()
+    client = OpenAI(api_key=os.environ["LLM_API_KEY"], base_url=os.environ.get("LLM_BASE_URL") or None)
     df = pd.read_csv(ROOT / "data" / "tickets.csv").sample(args.sample, random_state=1)
     rows = []
     for _, t in df.iterrows():

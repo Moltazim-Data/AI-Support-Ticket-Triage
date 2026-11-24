@@ -1,0 +1,12 @@
+{
+  "tickets_total": 3000,
+  "tickets_test": 750,
+  "category_accuracy": 0.957,
+  "category_macro_f1": 0.957,
+  "urgency_accuracy": 0.995,
+  "high_urgency_recall": 0.979,
+  "auto_routed_share": 0.961,
+  "auto_routed_category_accuracy": 0.968,
+  "review_threshold": 0.6,
+  "est_hours_saved_per_1000_tickets": 24.0
+}

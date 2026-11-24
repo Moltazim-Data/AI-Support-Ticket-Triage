@@ -1,0 +1,751 @@
+pred_category,category_conf,pred_urgency,urgency_conf,queue,sla_hours,human_review,ticket_id,text,category,urgency
+Billing,0.947,High,0.962,Finance,4,False,T101792,"Hi team, need a copy of the invoice for May for our accounting, urgent. Kind regards",Billing,High
+Account,0.914,Normal,0.977,Customer success,24,False,T101260,"Hi team, how do I add a new user to our team account. Thanks",Account,Normal
+Account,0.933,Normal,0.977,Customer success,24,False,T102321,"Dear support, my account is locked after too many attempts. Thanks",Account,Normal
+Billing,0.967,Normal,0.97,Finance,24,False,T100026,"Good morning, why did my card get charged 99 euro when I cancelled.",Billing,Normal
+Technical,0.96,Normal,0.974,Tech support,24,False,T101576,"Good morning, login works but the analytics button does nothing. Thank you",Technical,Normal
+Billing,0.983,Normal,0.977,Finance,24,False,T101596,the VAT on my last invoice looks worng.,Billing,Normal
+Billing,0.993,Low,0.968,Finance,72,False,T100697,"need a copy of the invoice for June for our accounting, no rush. Thanks",Billing,Low
+Shipping,0.983,Normal,0.989,Logistics,24,False,T101838,the package arrived damaged. Best regards,Shipping,Normal
+Shipping,0.98,Low,0.989,Logistics,72,False,T102004,"Good morning, when will order #41542 be shipped, when you have time. Thank you",Shipping,Low
+Billing,0.842,High,0.961,Finance,4,False,T102461,"Good morning, need a copy of the nivoice for May for our accounting, urgent. Kind regards",Billing,High
+Technical,0.941,High,0.982,Tech support,4,False,T100270,"Dear support, page is very slow and times out after 30 seconds, blocked. Thanks",Refund,High
+Refund,0.971,Normal,0.973,Finance,24,False,T101237,cancel my order #91554 and refund the payment. Kind regards,Refund,Normal
+Technical,0.957,High,0.991,Tech support,4,False,T101910,"the app crashes when I open the reports page, blocked. Kind regards",Technical,High
+Account,0.894,High,0.975,Customer success,4,False,T101437,"Dear support, need to change the owner of the company account, cannot work. Thank you",Account,High
+Billing,0.97,High,0.958,Finance,4,False,T102640,"Good morning, I was charged twice for my Pro subscription this month, blocked. Thanks",Billing,High
+Billing,0.96,High,0.916,Finance,4,False,T100051,"Dear support, why did my card get charged 120 euro when I cancelled, today. Thank you",Shipping,High
+Billing,0.977,High,0.977,Finance,4,False,T100834,"Good morning, invoice INV-2464 shows the wrong amount, please correct it, immediately. Thanks",Billing,High
+Technical,0.987,Normal,0.966,Tech support,24,False,T101618,dashboard is not loading since the last update.,Technical,Normal
+Billing,0.971,High,0.971,Finance,4,False,T100893,"Hi team, invoice INV-4507 shows the wrong amount, please correct it, immediately. Best regards",Billing,High
+Technical,0.977,Normal,0.968,Tech support,24,False,T101467,dashboard is not loading snice the last update.,Technical,Normal
+Technical,0.986,Normal,0.96,Tech support,24,False,T102472,"Dear support, page is very slow and times out after 30 seconds.",Technical,Normal
+Shipping,0.808,Low,0.794,Logistics,72,False,T101428,"Hello, can I change the delivery address for order #75129, no rush. Also dashboard is not loading since the last update. Best regards",Shipping,Low
+Account,0.557,Normal,0.95,Customer success,24,True,T101574,sync with Shopify stopped working yesterda.y Also please change the email address on my account. Thanks,Technical,Normal
+Account,0.964,Normal,0.942,Customer success,24,False,T100168,"Good morning, please change the email address on my account.",Technical,Normal
+Billing,0.966,Low,0.987,Finance,72,False,T102946,"invoice INV-5793 shows the wrong maount, please correct it, no rush.",Billing,Low
+Technical,0.978,Normal,0.959,Tech support,24,False,T101802,"Good morning, dashboard is not loading since the last update.",Technical,Normal
+Billing,0.964,Low,0.971,Finance,72,False,T100443,"Dear support, I was charged twice for my Pro subscription this month, when you have time. Best regards",Billing,Low
+Billing,0.977,Normal,0.971,Finance,24,False,T100002,why did my card get charged 240 euro when I cancelled. Thank you,Billing,Normal
+Account,0.839,High,0.991,Customer success,4,False,T101131,"Dear support, how do I add a new user to our team account, immediately. Thank you",Account,High
+Technical,0.99,Normal,0.958,Tech support,24,False,T101074,"Hello, sync with Outlook stopped working yesterday. Thank you",Technical,Normal
+Shipping,0.969,Normal,0.983,Logistics,24,False,T101988,"Dear support, the package arrived damaged. Thanks",Shipping,Normal
+Technical,0.965,Normal,0.984,Tech support,24,False,T101036,the app crahses when I open the billing page. Kind regards,Technical,Normal
+Account,0.978,Normal,0.976,Customer success,24,False,T100868,"Hi team, I cannot reset my password, the link expired. Thanks",Account,Normal
+Technical,0.963,High,0.97,Tech support,4,False,T100173,"Good morning, the app crashes when I open the billing page, today.",Technical,High
+Account,0.962,High,0.989,Customer success,4,False,T101410,"please change the email address on my account, today. Kind regards",Account,High
+Shipping,0.991,Low,0.881,Logistics,72,False,T101322,"Good morning, the package arrived damaged, just a qeustion.",Shipping,Low
+Shipping,0.603,High,0.9,Logistics,4,False,T100264,"Hi team, parcel was delivered to the wrong address, blocked. Also dashboard is not loading since the last update. Best regards",Shipping,High
+Billing,0.973,Normal,0.988,Finance,24,False,T102286,"Hi team, payment failed but money left my account. Best regards",Billing,Normal
+Billing,0.968,High,0.883,Finance,4,False,T102859,"why did my card get charged 240 euro when I cancelled, urgent. Also can I change the delivery address for order #12345. Thanks",Billing,High
+Billing,0.965,Normal,0.963,Finance,24,False,T100550,"Good morning, I was charged twice for my Team subscription this month. Kind regards",Billing,Normal
+Billing,0.967,Normal,0.961,Finance,24,False,T101089,"Hello, I was charged twice for my Team subscription this month. Thanks",Billing,Normal
+Billing,0.989,Normal,0.975,Finance,24,False,T102575,"Hi team, need a copy of the invoice for April for our accounting. Best regards",Billing,Normal
+Technical,0.964,High,0.978,Tech support,4,False,T101903,"Good morning, dashboard is not loading since the last update, asap. Thanks",Technical,High
+Account,0.947,Normal,0.967,Customer success,24,False,T100929,"Good morning, how do I add a new user to our team account. Thank you",Account,Normal
+Billing,0.829,High,0.933,Finance,4,False,T101450,"Hi team, I was charged twice for my Pro subscription this month, immediately. Also the package arrived damaged. Thank you",Billing,High
+Technical,0.958,Normal,0.981,Tech support,24,False,T101995,login works but the settings button does nothing. Thank you,Technical,Normal
+Shipping,0.97,High,0.976,Logistics,4,False,T100151,"Hello, when will order #90254 be shipped, cannot work. Thanks",Shipping,High
+Billing,0.974,Normal,0.973,Finance,24,False,T101001,"Hello, why did my card get charged 99 euro when I cancelled. Thanks",Billing,Normal
+Billing,0.992,Normal,0.975,Finance,24,False,T102734,"Hello, I was charged twice for my Basic subscription this month. Thank you",Billing,Normal
+Account,0.889,High,0.986,Customer success,4,False,T101780,"Hi team, how do I add a new user to our team account, asap.",Account,High
+Billing,0.97,Normal,0.984,Finance,24,False,T101952,the VAT on my last invoice looks wrong. Thank you,Billing,Normal
+Billing,0.978,Normal,0.99,Finance,24,False,T102601,"Hello, payment failed but money left my account. Best regards",Billing,Normal
+Shipping,0.946,High,0.982,Logistics,4,False,T100232,"the package arrived damaged, blocked. Best regards",Shipping,High
+Shipping,0.809,Low,0.926,Logistics,72,False,T100734,"Hi team, can I change the delivery address for order #58936, quick question. Also please refund the 49 euro I paid by mistake. Thank you",Shipping,Low
+Refund,0.958,Normal,0.956,Finance,24,False,T100905,returned the itme 7 days ago and still no refund. Thanks,Refund,Normal
+Billing,0.978,Normal,0.976,Finance,24,False,T101836,"Dear support, why did my card get charged 99 euro when I cancelled.",Billing,Normal
+Billing,0.958,High,0.886,Finance,4,False,T102787,"Dear support, why did my card get charged 19 euro when I cancelled, cannot work. Kind regards",Billing,High
+Account,0.853,Normal,0.962,Customer success,24,False,T102837,"Hello, how do I add a new user to our team acconut. Best regards",Account,Normal
+Account,0.966,Normal,0.981,Customer success,24,False,T102879,"Dear support, my account is locked after too many attempts. Thank you",Account,Normal
+Refund,0.956,Normal,0.974,Finance,24,False,T100402,please refund the 49 euro I paid by mistake.,Refund,Normal
+Shipping,0.637,Normal,0.961,Logistics,24,False,T102406,the package arrived damaged. Also the app crashes when I open the reports page.,Shipping,Normal
+Account,0.977,Normal,0.977,Customer success,24,False,T100300,"Hi team, I cannot reset my password, the link expired.",Account,Normal
+Billing,0.978,Normal,0.963,Finance,24,False,T100190,I was charged twice for my Pro subscription this month. Thanks,Billing,Normal
+Technical,0.983,Normal,0.976,Tech support,24,False,T100675,"Hello, dashboard is not loading since the last update. Kind regards",Technical,Normal
+Shipping,0.939,High,0.984,Logistics,4,False,T102517,"Hi team, my order #60462 has not arrived after 10 days, immediately. Kind regards",Shipping,High
+Refund,0.948,Normal,0.957,Finance,24,False,T101548,"Hello, returned the item 14 days ago and still no refund. Thank you",Refund,Normal
+Account,0.961,High,0.961,Customer success,4,False,T102644,"Good morning, my account is locked after too many attempts, urgent.",Account,High
+Account,0.93,Normal,0.97,Customer success,24,False,T102121,"Good morning, how do I add a new uesr to our team account. Kind regards",Account,Normal
+Account,0.871,High,0.996,Customer success,4,False,T101863,"how do I add a new user to our team account, immediately.",Account,High
+Billing,0.972,Low,0.983,Finance,72,False,T100564,"Dear support, invoice INV-6558 shows the wrong amount, please correct it, quick question.",Billing,Low
+Shipping,0.974,Normal,0.93,Logistics,24,False,T101670,"Dear support, tracking number for ordre #70946 does not work.",Shipping,Normal
+Technical,0.969,Normal,0.969,Tech support,24,False,T101242,"Good morning, dashboard is not loading since the last update. Kind regards",Technical,Normal
+Technical,0.982,Normal,0.971,Tech support,24,False,T102536,page is very slow and times out after 30 seconds.,Technical,Normal
+Refund,0.983,Normal,0.967,Finance,24,False,T102520,cancel my order #84292 and refund the payment. Thanks,Refund,Normal
+Account,0.614,Normal,0.974,Customer success,24,False,T102711,"Dear support, I cannot reset my password, the link expired. Also page is very slow and times out after 30 seconds. Best regards",Account,Normal
+Shipping,0.972,Normal,0.981,Logistics,24,False,T100391,parcel was delivered to the wrong address. Thank you,Shipping,Normal
+Billing,0.979,Normal,0.989,Finance,24,False,T102315,apyment failed but money left my account. Best regards,Billing,Normal
+Refund,0.977,Low,0.962,Finance,72,False,T102519,"Hi team, please refund the 19 euro I paid by mistake, when you have time. Best regards",Refund,Low
+Billing,0.985,Normal,0.971,Finance,24,False,T101417,I was charged twice for my Team subscription this month. Best regards,Billing,Normal
+Technical,0.948,Normal,0.957,Tech support,24,False,T100837,"Dear support, login works but the reports button does nothing. Thank you",Technical,Normal
+Technical,0.947,Low,0.957,Tech support,72,False,T102273,"Dear support, login works but the analytics button does nothing, when you have time. Kind regards",Technical,Low
+Billing,0.98,Normal,0.978,Finance,24,False,T101306,why did my card get charged 120 euro when I cancelled.,Billing,Normal
+Shipping,0.983,Normal,0.989,Logistics,24,False,T100349,the package arrived damaged. Best regards,Shipping,Normal
+Shipping,0.973,Normal,0.93,Logistics,24,False,T100042,"Hello, tracking number for order #74451 does not work. Best regards",Shipping,Normal
+Shipping,0.98,Normal,0.985,Logistics,24,False,T101560,the packaeg arrived damaged.,Shipping,Normal
+Shipping,0.992,Low,0.979,Logistics,72,False,T100299,"Hi team, can I change the delivery address for order #34671, just a question. Best regards",Billing,Low
+Technical,0.877,High,0.978,Tech support,4,False,T102490,"Hi team, the app crashes when I open the reports page, immediately. Also tracking number for order #12345 does not work. Thanks",Technical,High
+Technical,0.557,Low,0.971,Tech support,72,True,T101653,"Dear support, when will ordre #17255 be shipped, quick question. Also dashboard is not loading since the last update. Thank you",Billing,Low
+Account,0.618,Normal,0.966,Customer success,24,False,T101970,"Hi team, my account is locked after too many attempts. Also login works but the reports button does nothing. Best regards",Account,Normal
+Billing,0.985,High,0.96,Finance,4,False,T101673,"Hello, invoice INV-3028 shows the wrong amount, please correct it, cannot work. Thank you",Billing,High
+Shipping,0.945,High,0.703,Logistics,4,False,T102481,"can I change the delivery address for order #45201, today. Also sync with Shopify stopped working yesterday. Thank you",Shipping,High
+Shipping,0.989,High,0.941,Logistics,4,False,T102233,"Hello, can I change the delivery address for order #31421, cannot work.",Shipping,High
+Technical,0.863,Low,0.991,Tech support,72,False,T100079,"dashboard is not laoding since the last update, when you have time. Kind regards",Technical,Low
+Account,0.898,Low,0.977,Customer success,72,False,T101222,"Hello, how do I add a new user to our team account, no rush.",Account,Low
+Refund,0.97,Normal,0.967,Finance,24,False,T101526,"Hello, I want a refund for order #89641, the product is faulty.",Refund,Normal
+Billing,0.82,High,0.941,Finance,4,False,T100485,"Hello, need a copy of the invoice for April for our accounting, immediately. Also how long does a refund take after the return. Best regards",Billing,High
+Technical,0.957,Normal,0.818,Tech support,24,False,T100248,"login works but the billing button does nothing, urgnet. Best regards",Technical,High
+Technical,0.947,High,0.974,Tech support,4,False,T102699,"Dear support, dashboard is not loading since the last update, immediately. Also how do I add a new user to our team account.",Technical,High
+Shipping,0.95,Normal,0.984,Logistics,24,False,T100736,"Hello, the pakcage arrived damaged.",Shipping,Normal
+Technical,0.973,Normal,0.97,Tech support,24,False,T102463,the app crashes when I open the reports page. Best regards,Technical,Normal
+Refund,0.947,High,0.965,Finance,4,False,T101095,"Good morning, I want a reufnd for order #43663, the product is faulty, urgent. Best regards",Refund,High
+Account,0.98,Normal,0.974,Customer success,24,False,T102815,"Hi team, I cannot reset my password, the link expired. Thank you",Account,Normal
+Account,0.968,Normal,0.979,Customer success,24,False,T101525,"I cannot reset my password, the link expired.",Account,Normal
+Shipping,0.977,Normal,0.982,Logistics,24,False,T101944,parcel was delivered to the wrong address. Kind regards,Shipping,Normal
+Billing,0.97,Low,0.968,Finance,72,False,T101833,"Dear support, why did my card get charged 99 euro when I cancelled, when you have time.",Billing,Low
+Account,0.685,Normal,0.947,Customer success,24,False,T101905,"Good morning, I cannot reset my password, the link expired. Also sycn with Shopify stopped working yesterday. Thanks",Account,Normal
+Account,0.492,High,0.757,Customer success,4,True,T102934,"Dear support, I cannot reset my password, the link expired, today. Also I was charged twice for my Pro subscription this month. Kind regards",Account,High
+Account,0.979,Normal,0.986,Customer success,24,False,T100614,please delete my account and my data.,Account,Normal
+Technical,0.916,Normal,0.933,Tech support,24,False,T102730,"Good morning, dashboard is not loading since the last update. Also cancel my order #12345 and refund the payment. Thanks",Technical,Normal
+Refund,0.958,Normal,0.979,Finance,24,False,T100409,"Hello, refund was only partial, 19 euro are missing. Best regards",Refund,Normal
+Technical,0.988,Low,0.987,Tech support,72,False,T101879,"Dear support, dashboard is not loading since the last update, quick question.",Technical,Low
+Account,0.98,High,0.94,Customer success,4,False,T102598,"Hi team, I cannot reset my password, the link expired, today. Thank you",Account,High
+Technical,0.981,Normal,0.978,Tech support,24,False,T102044,error 404 when I try to export the report. Kind regards,Technical,Normal
+Refund,0.971,Normal,0.966,Finance,24,False,T101046,"Hi team, I want a refund for order #40794, the product is faulty.",Refund,Normal
+Billing,0.946,High,0.96,Finance,4,False,T101656,"Good morning, why did my card get charged 19 euro when I cancelled, immediately. Kind regards",Billing,High
+Technical,0.983,Normal,0.976,Tech support,24,False,T102404,"Hello, dashboard is not loading since the last update. Kind regards",Technical,Normal
+Refund,0.969,Low,0.988,Finance,72,False,T102958,"Good morning, cancel my order #26138 and refund the payment, just a question. Thanks",Refund,Low
+Technical,0.957,High,0.978,Tech support,4,False,T102092,"Good morning, dashboard is not loading since the last update, blocked.",Technical,High
+Refund,0.971,Low,0.992,Finance,72,False,T100029,"returend the item 14 days ago and still no refund, quick question. Thanks",Refund,Low
+Account,0.607,Normal,0.979,Customer success,24,False,T101762,"Hello, the apckage arrived damaged. Also my account is locked after too many attempts. Thank you",Shipping,Normal
+Technical,0.986,Normal,0.985,Tech support,24,False,T101840,"Hi team, the app crashes when I open the analytics page. Kind regards",Technical,Normal
+Shipping,0.977,High,0.989,Logistics,4,False,T102268,"tracking number for order #56547 does not work, immediately. Thanks",Shipping,High
+Account,0.958,High,0.98,Customer success,4,False,T102320,"Dear support, please change the email address on my account, today. Kind regards",Account,High
+Billing,0.991,Normal,0.979,Finance,24,False,T102456,"Hi team, I was charged twice for my Basic subscription this month. Best regards",Billing,Normal
+Account,0.656,High,0.885,Customer success,4,False,T101284,"please delete my account and my dtaa, today. Also the package arrived damaged.",Account,High
+Shipping,0.973,High,0.987,Logistics,4,False,T101043,"tracking number for order #19843 does not work, immediately. Thank you",Shipping,High
+Account,0.927,Normal,0.966,Customer success,24,False,T101264,"Good morning, I cannot reset my password, the link expired. Thanks",Account,Normal
+Account,0.98,Normal,0.98,Customer success,24,False,T102088,"Hello, my account is locked after too many attempts. Thank you",Account,Normal
+Account,0.984,High,0.986,Customer success,4,False,T101924,"Hi team, please change the email address on my account, asap.",Account,High
+Technical,0.966,High,0.948,Tech support,4,False,T101320,"Hello, login works but the analytics button does nothing, blocked. Thanks",Technical,High
+Billing,0.98,Normal,0.989,Finance,24,False,T101040,payment failed but money left my account. Best regards,Billing,Normal
+Refund,0.952,Normal,0.968,Finance,24,False,T102083,"Hello, how long does a refund take after the return. Thank you",Refund,Normal
+Account,0.931,Normal,0.98,Customer success,24,False,T100336,"I cannot reset my password, the link expired. Best regards",Account,Normal
+Technical,0.984,Normal,0.941,Tech support,24,False,T101424,dashboard is not loading since the last updaet.,Technical,Normal
+Billing,0.991,Normal,0.858,Finance,24,False,T100282,"invoice INV-6718 shows the wrong amount, please correct it, aspa. Best regards",Billing,High
+Account,0.912,Low,0.984,Customer success,72,False,T101446,"how do I add a new user to our team account, no rush. Thank you",Account,Low
+Account,0.889,High,0.986,Customer success,4,False,T101858,"Hi team, how do I add a new user to our team account, asap.",Account,High
+Shipping,0.94,Normal,0.971,Logistics,24,False,T101827,"Dear support, when will order #12452 be shipped. Thanks",Shipping,Normal
+Shipping,0.96,Low,0.992,Logistics,72,False,T101824,"parcel was delivered to the wrong address, quick question. Thanks",Shipping,Low
+Billing,0.687,Low,0.844,Finance,72,False,T102175,"Good morning, need a copy of the invoice for April for our accounting, when you have time. Alos my account is locked after too many attempts. Kind regards",Billing,Low
+Billing,0.635,Normal,0.942,Finance,24,False,T101483,"Dear support, I was charged twice for my Pro subscription this month. Also how long does a refund take after the return.",Billing,Normal
+Technical,0.956,Low,0.991,Tech support,72,False,T101418,"dashboard is not loading since the last update, just a question.",Technical,Low
+Technical,0.99,Normal,0.98,Tech support,24,False,T100599,"Hello, login works but the analytics button does nothing.",Technical,Normal
+Shipping,0.858,Low,0.899,Logistics,72,False,T101400,"Good morning, parcel was delivered to the wrong address, when you have time. Also payment failed but money left my account. Thank you",Shipping,Low
+Billing,0.986,Normal,0.987,Finance,24,False,T100901,the VAT on my last invoice looks wrong.,Billing,Normal
+Billing,0.97,Normal,0.97,Finance,24,False,T102537,"Hello, the VAT on my last invoice looks wrong. Also when will order #12345 be shipped. Thanks",Billing,Normal
+Billing,0.872,High,0.901,Finance,4,False,T102075,"invoice INV-7090 shows the wrong amount, please correct it, cannot work. Also page is very lsow and times out after 30 seconds. Kind regards",Billing,High
+Technical,0.936,Normal,0.973,Tech support,24,False,T102576,"Good morning, login works but the settings button does nothing. Thank you",Technical,Normal
+Billing,0.908,High,0.975,Finance,4,False,T100247,"Good morning, payment failed but money left my account, urgent. Best regards",Billing,High
+Refund,0.981,High,0.94,Finance,4,False,T100294,"Hi team, refund was only partial, 120 euro are missing, urgent. Thank you",Refund,High
+Account,0.966,Normal,0.977,Customer success,24,False,T102996,"Good morning, my account is locked after too many attempts. Thank you",Account,Normal
+Shipping,0.974,High,0.955,Logistics,4,False,T102195,"Good morning, my order #53254 has not arrived after 10 days, today. Kind regards",Shipping,High
+Refund,0.991,High,0.957,Finance,4,False,T100469,"Hi team, I want a refund for order #14455, the product is faulty, today. Kind regards",Refund,High
+Billing,0.981,Normal,0.971,Finance,24,False,T100506,I was charged twice for my Pro subscription this month. Best regards,Billing,Normal
+Refund,0.932,Normal,0.968,Finance,24,False,T101470,"Hi team, refund was olny partial, 240 euro are missing.",Refund,Normal
+Technical,0.97,Normal,0.963,Tech support,24,False,T102608,"Hi team, login works but the reports button does nothing.",Technical,Normal
+Shipping,0.986,Low,0.992,Logistics,72,False,T101115,"parcel was delivered to the wrong address, when you have time.",Shipping,Low
+Shipping,0.994,Normal,0.974,Logistics,24,False,T102263,can I change the delivery address for order #32482. Thank you,Shipping,Normal
+Technical,0.894,High,0.968,Tech support,4,False,T101127,"Dear support, page is very slow and times out after 30 seconds, immediately. Also tracking number for order #12345 does not work. Kind regards",Technical,High
+Account,0.733,Low,0.99,Customer success,72,False,T101884,"Good morning, how do I add a new user to our team account, quick question.",Account,Low
+Shipping,0.961,Normal,0.978,Logistics,24,False,T101790,"Dear support, my order #75482 has not arrived after 14 days. Kind regards",Shipping,Normal
+Technical,0.958,Low,0.995,Tech support,72,False,T101106,"error 404 when I try to xeport the report, just a question. Thank you",Technical,Low
+Billing,0.865,Normal,0.941,Finance,24,False,T102758,"Hello, invoice INV-8077 shows the wrong amount, please correct it. Also please refund the 49 euro I paid by mistake. Thank you",Billing,Normal
+Technical,0.928,Normal,0.957,Tech support,24,False,T100698,"Hello, page is very slow and times out after 30 seconds. Also my order #12345 has not rarived after 7 days. Thank you",Technical,Normal
+Billing,0.968,Normal,0.948,Finance,24,False,T100076,"Hi team, invoice INV-3712 shows the wrong amount, please correct it.",Billing,Normal
+Technical,0.993,Normal,0.983,Tech support,24,False,T102326,the app crashes when I open the analytics page. Thank you,Technical,Normal
+Account,0.981,Normal,0.982,Customer success,24,False,T100421,my account is locked after too many attempts. Thank you,Account,Normal
+Account,0.961,High,0.955,Customer success,4,False,T102375,"I cannot reset my password, the link expired, blocked.",Account,High
+Billing,0.981,Normal,0.985,Finance,24,False,T100452,the VAT on my last invoice looks wrong. Thanks,Billing,Normal
+Billing,0.956,Normal,0.988,Finance,24,False,T101561,"Hi team, the VAT on my last invoice looks wrong. Kind regards",Billing,Normal
+Technical,0.92,Low,0.955,Tech support,72,False,T100655,"login works but the billing button does nothing, no rush. Thank you",Technical,Low
+Account,0.683,Low,0.927,Customer success,72,False,T102820,"Hi team, my account is locked after too many attempts, quick question. Also can I change the delivery address for order #12345. Thanks",Account,Low
+Refund,0.9,Normal,0.967,Finance,24,False,T102068,"Dear support, lpease refund the 120 euro I paid by mistake. Thank you",Refund,Normal
+Shipping,0.921,High,0.951,Logistics,4,False,T102102,"tracking number for roder #47851 does not work, urgent. Kind regards",Shipping,High
+Billing,0.959,High,0.984,Finance,4,False,T101899,"Hello, the VAT on my last invoice looks wrong, immediately. Kind regards",Billing,High
+Refund,0.983,Normal,0.964,Finance,24,False,T102839,"Hi team, how long does a refund take after the return.",Refund,Normal
+Billing,0.983,Low,0.957,Finance,72,False,T102647,"why did my card get charged 240 euro when I cancelled, no rush. Thank you",Billing,Low
+Technical,0.929,Normal,0.973,Tech support,24,False,T100240,"Dear support, login works but the billing button does nothing. Thank you",Technical,Normal
+Shipping,0.712,Normal,0.978,Logistics,24,False,T101678,"the package arrived damaged. Also I cannot reset my password, the link expired.",Shipping,Normal
+Shipping,0.955,High,0.982,Logistics,4,False,T102082,"Dear support, parcel was delivered to the wrong address, cannot work.",Shipping,High
+Billing,0.969,Normal,0.981,Finance,24,False,T101559,"Dear support, why did my card get charged 19 euro when I cancelled. Thanks",Billing,Normal
+Billing,0.962,Normal,0.947,Finance,24,False,T101491,"Dear support, invoice INV-4764 shows the wrong amount, please correct it. Thanks",Billing,Normal
+Billing,0.711,Low,0.887,Finance,72,False,T101054,"Good morning, I was charged twice for my Team subscription this month, just a question. Also my account is locked after too many attempts. Thanks",Billing,Low
+Account,0.734,Normal,0.964,Customer success,24,False,T100152,"Good morning, how do I add a new user to our team account. Also please refund the 49 euro I paid by mistake. Kind regards",Account,Normal
+Billing,0.969,Normal,0.915,Finance,24,False,T100647,"Good morning, invoice INV-4442 shows the wrong amount, please correct it.",Billing,Normal
+Shipping,0.958,High,0.99,Logistics,4,False,T100990,"parcel was delivered to the wrong address, immediately. Thanks",Shipping,High
+Shipping,0.965,High,0.98,Logistics,4,False,T101717,"Hi team, the package arrived damaged, cannot work. Thanks",Shipping,High
+Shipping,0.887,Normal,0.955,Logistics,24,False,T100081,"Hi team, my oredr #93318 has not arrived after 14 days. Kind regards",Shipping,Normal
+Billing,0.959,Normal,0.984,Finance,24,False,T100688,"Hi team, the VAT on my last invoice looks wrong. Thank you",Billing,Normal
+Account,0.58,Normal,0.97,Customer success,24,True,T101113,"Dear support, need to change the owner of the company account. Also erfund was only partial, 49 euro are missing. Kind regards",Account,Normal
+Refund,0.985,High,0.985,Finance,4,False,T102181,"how long does a refund take after the return, blocked.",Refund,High
+Technical,0.775,Low,0.968,Tech support,72,False,T102742,"Good morning, login works but the settings button does nothing, when you have time. Kind regards",Technical,Low
+Shipping,0.991,High,0.897,Logistics,4,False,T100313,"Good morning, can I change the delivery address for order #94907, urgent. Kind regards",Shipping,High
+Account,0.971,Normal,0.979,Customer success,24,False,T100107,"Hi team, I cannot reset my password, the link expired. Kind regards",Account,Normal
+Billing,0.974,Normal,0.99,Finance,24,False,T101604,payment failed but money left my account. Kind regards,Billing,Normal
+Technical,0.982,Normal,0.971,Tech support,24,False,T100433,page is very slow and times out after 30 seconds.,Technical,Normal
+Billing,0.964,Normal,0.988,Finance,24,False,T102271,why did my card get charged 19 euro when I cancelled. Best regards,Billing,Normal
+Shipping,0.652,High,0.886,Logistics,4,False,T101408,"Good morning, the package arrived damaged, today. Also the app crashes whne I open the reports page. Thank you",Shipping,High
+Account,0.488,Normal,0.965,Customer success,24,True,T101262,"Good morning, my account is locked after too many attempts. Also how long does a refund take after the return. Best regards",Account,Normal
+Refund,0.965,Normal,0.958,Finance,24,False,T102256,"Hi team, returned the item 10 days ago and still no refund. Kind regards",Refund,Normal
+Technical,0.982,Low,0.989,Tech support,72,False,T101511,"the app crashes when I open the reports page, just a question. Best regards",Technical,Low
+Technical,0.985,Normal,0.978,Tech support,24,False,T101186,"Dear support, the app crashes when I open the analytics page. Thanks",Technical,Normal
+Billing,0.976,Normal,0.985,Finance,24,False,T100172,"Hello, the VAT on my last invoice looks wrong. Thanks",Billing,Normal
+Technical,0.987,Normal,0.966,Tech support,24,False,T101807,dashboard is not loading since the last update.,Technical,Normal
+Technical,0.959,High,0.986,Tech support,4,False,T100277,"Good morning, the app crashes when I open the reports page, today.",Technical,High
+Technical,0.948,Normal,0.984,Tech support,24,False,T101195,"Hello, the app crashes when I open the settings page.",Technical,Normal
+Billing,0.983,Normal,0.988,Finance,24,False,T101144,payment failed but money left my account. Thanks,Billing,Normal
+Technical,0.938,Low,0.968,Tech support,72,False,T100819,"Good morning, the app crashes when I open the reports page, no rush. Thank you",Technical,Low
+Shipping,0.955,Normal,0.981,Logistics,24,False,T101566,"Hello, my order #18679 has not arrived after 7 days. Kind regards",Shipping,Normal
+Refund,0.901,Normal,0.971,Finance,24,False,T100273,"Dear support, please refund the 49 euro I paid by mistake. Thanks",Refund,Normal
+Billing,0.976,Low,0.974,Finance,72,False,T101255,"Hi team, invoice INV-8000 shows the wrong amount, please correct it, no rush. Thanks",Billing,Low
+Technical,0.988,High,0.988,Tech support,4,False,T101091,"Dear support, dashboard is not loading since the last update, immediately.",Technical,High
+Technical,0.983,Normal,0.959,Tech support,24,False,T101756,"Dear support, page is very slow and times out fater 30 seconds. Thank you",Technical,Normal
+Technical,0.499,Low,0.944,Tech support,72,True,T101923,"cancel my order #40447 and refund the payment, when you have time. Also login works but the reports button does nothnig. Best regards",Refund,Low
+Technical,0.938,Low,0.987,Tech support,72,False,T102022,"dashboard is not loading since the last update, when you have time. Thank you",Technical,Low
+Technical,0.992,High,0.963,Tech support,4,False,T102392,"error 502 when I try to export the report, today.",Technical,High
+Refund,0.922,High,0.96,Finance,4,False,T101189,"Dear support, returned the item 3 days ago and still no refund, blocked. Best regards",Refund,High
+Billing,0.965,Low,0.982,Finance,72,False,T102969,"Hi team, why did my card get charged 99 euro when I cancelled, quick question.",Billing,Low
+Refund,0.962,High,0.978,Finance,4,False,T102284,"returned the item 7 days ago and still no refund, blocked.",Refund,High
+Billing,0.982,Normal,0.978,Finance,24,False,T100822,why did my card get charged 99 euro when I cancelled.,Billing,Normal
+Shipping,0.978,Low,0.985,Logistics,72,False,T100604,"Hi team, parcel was delivered to the wrong address, quick question.",Shipping,Low
+Account,0.974,Normal,0.976,Customer success,24,False,T100579,"Dear support, need to change the owner of the company account. Thank you",Account,Normal
+Refund,0.986,Normal,0.97,Finance,24,False,T100555,cancel my order #14212 and refund the payment.,Refund,Normal
+Billing,0.98,Normal,0.95,Finance,24,False,T100725,"Dear support, why did my card get charged 240 euro when I cancellde. Thank you",Billing,Normal
+Technical,0.47,High,0.937,Tech support,4,True,T101747,"Dear support, how do I add a new user to our team account, cannot work. Also sync with Shopify stopped working yesterday.",Account,High
+Technical,0.967,Low,0.981,Tech support,72,False,T101519,"Hello, the app crashes when I open the reports page, when you have time. Thank you",Technical,Low
+Technical,0.621,Low,0.886,Tech support,72,False,T101882,"Hi team, page is very slow and times out after 30 seconds, just a question. Aslo how long does a refund take after the return.",Technical,Low
+Billing,0.986,Normal,0.987,Finance,24,False,T100137,"Hello, payment failed but money left my account.",Billing,Normal
+Account,0.733,Low,0.99,Customer success,72,False,T101626,"Good morning, how do I add a new user to our team account, quick question.",Account,Low
+Billing,0.972,Low,0.927,Finance,72,False,T102222,"payment failed but money left my account, juts a question.",Billing,Low
+Technical,0.975,High,0.985,Tech support,4,False,T102600,"dashboard is not loading since the last update, cannot work. Thanks",Technical,High
+Technical,0.952,High,0.989,Tech support,4,False,T101894,"Hi team, the app crashes when I open the reports page, blocked.",Technical,High
+Technical,0.961,Normal,0.961,Tech support,24,False,T102882,"Hello, login works but the reports button does nothing. Thanks",Technical,Normal
+Technical,0.804,Normal,0.965,Tech support,24,False,T100600,"Hi team, login works but the billing buttno does nothing. Also how long does a refund take after the return. Kind regards",Technical,Normal
+Billing,0.981,Normal,0.977,Finance,24,False,T100156,"Hi team, need a copy of the invoice for May for our accounting.",Billing,Normal
+Technical,0.779,High,0.938,Tech support,4,False,T100335,"Hi team, dashboard is not loading since the last update, blocked. Also need a copy of the invoice for May for our accounting.",Technical,High
+Shipping,0.994,Low,0.61,Logistics,72,False,T102288,"Good morning, can I change the delivery address for order #35857, when you hvae time. Kind regards",Shipping,Low
+Account,0.59,Low,0.96,Customer success,72,True,T101873,"please change the email address on my account, no rush. Also can I change the delivery address for order #12345. Thank you",Account,Low
+Account,0.983,Normal,0.965,Customer success,24,False,T101206,please change the email address on my account. Thanks,Account,Normal
+Shipping,0.97,Normal,0.966,Logistics,24,False,T102572,tracking number for order #89573 does not wrok. Thank you,Shipping,Normal
+Technical,0.898,Normal,0.954,Tech support,24,False,T100719,"Dear support, sync iwth Shopify stopped working yesterday. Best regards",Technical,Normal
+Shipping,0.997,Normal,0.976,Logistics,24,False,T100112,can I change the delivery address for order #14400.,Shipping,Normal
+Technical,0.982,Normal,0.971,Tech support,24,False,T101578,page is very slow and times out after 30 seconds.,Technical,Normal
+Refund,0.647,High,0.935,Finance,4,False,T102936,"how long does a refund take after the return, asap. Also please delete my account and my data. Thanks",Refund,High
+Billing,0.814,Normal,0.924,Finance,24,False,T101380,"invoice INV-9960 shows the wrong amount, please correct it. Also refund was only pratial, 49 euro are missing. Thanks",Billing,Normal
+Shipping,0.99,High,0.993,Logistics,4,False,T100932,"when will order #67121 be shipped, immediately.",Shipping,High
+Shipping,0.665,Normal,0.88,Logistics,24,False,T100080,"Hello, tracking number for order #24530 does not work. Also page is very slow and times out after 30 seconds.",Shipping,Normal
+Account,0.902,Normal,0.978,Customer success,24,False,T101302,"Dear support, how do I add a new user to our team account. Thanks",Account,Normal
+Shipping,0.981,Low,0.988,Logistics,72,False,T101205,"Hello, parcel was delivered to the wrong address, when you have time.",Shipping,Low
+Account,0.961,Normal,0.98,Customer success,24,False,T100188,"Hello, need to change the owner of the company account. Best regards",Account,Normal
+Technical,0.865,Normal,0.955,Tech support,24,False,T101743,sync with Shopify stopped working yesterday. Thank you,Technical,Normal
+Technical,0.961,Normal,0.961,Tech support,24,False,T100898,"Hello, login works but the reports button does nothing. Thanks",Technical,Normal
+Technical,0.988,Normal,0.97,Tech support,24,False,T101360,sync with Outlook stopped working yesterday. Best regards,Technical,Normal
+Billing,0.967,Normal,0.922,Finance,24,False,T101554,"Good morning, invoice INV-2005 shows the wrong amount, please correct it. Thank you",Billing,Normal
+Technical,0.977,High,0.991,Tech support,4,False,T102623,"the app crashes when I open the reports page, urgent. Kind regards",Technical,High
+Technical,0.87,Normal,0.971,Tech support,24,False,T102019,"Hello, the app crashes when I open the billing page. Also my order #12345 has not arrived after 7 days. Thank you",Technical,Normal
+Technical,0.989,High,0.995,Tech support,4,False,T100779,"the app crashes when I open the reports page, immediately. Best regards",Technical,High
+Account,0.972,Low,0.944,Customer success,72,False,T101269,"Hello, my account is locked after too many attempts, no rush.",Account,Low
+Refund,0.934,Normal,0.97,Finance,24,False,T101152,"Hi team, please refund the 49 euro I paid by mistake. Thanks",Refund,Normal
+Billing,0.993,Normal,0.968,Finance,24,False,T102292,"Dear support, need a copy of the invoice for June for our accounting. Thanks",Billing,Normal
+Account,0.963,Normal,0.97,Customer success,24,False,T102638,"Hello, please change the email address on my account. Best regards",Account,Normal
+Billing,0.966,Normal,0.924,Finance,24,False,T102479,"Good morning, invoice INV-3347 shows the wrong amount, please correct it.",Billing,Normal
+Shipping,0.989,Low,0.982,Logistics,72,False,T100821,"my order #47645 has not arrived after 7 adys, no rush.",Shipping,Low
+Shipping,0.995,Low,0.972,Logistics,72,False,T102477,"Good morning, can I change the delivery address for order #48159, just a question. Best regards",Shipping,Low
+Billing,0.99,Normal,0.978,Finance,24,False,T102660,"Hello, need a copy of the invoice for March for our accounting. Thank you",Billing,Normal
+Account,0.963,Low,0.976,Customer success,72,False,T102372,"Hi team, I cannot reset my password, the link expired, just a question.",Account,Low
+Billing,0.975,Normal,0.975,Finance,24,False,T102915,why did my card get charged 120 euro when I cancelled. Thanks,Billing,Normal
+Technical,0.99,High,0.987,Tech support,4,False,T101830,"Dear support, the app crashes when I open the reports page, asap.",Technical,High
+Account,0.936,Normal,0.977,Customer success,24,False,T101199,"Good morning, my account is locked after too many attempts.",Account,Normal
+Shipping,0.969,High,0.981,Logistics,4,False,T101956,"my order #70788 has not arrived after 14 days, today. Thank you",Shipping,High
+Refund,0.973,Low,0.979,Finance,72,False,T100106,"Dear support, please refund the 99 euro I paid by mistake, quick question. Thank you",Refund,Low
+Account,0.976,Normal,0.985,Customer success,24,False,T102863,"Dear support, please delete my account and my data. Kind regards",Account,Normal
+Shipping,0.82,Normal,0.98,Logistics,24,False,T101783,"Dear support, my order #42481 has not arrvied after 7 days. Thank you",Shipping,Normal
+Refund,0.977,Normal,0.957,Finance,24,False,T100848,"Dear support, refund was only partial, 120 euro are missing.",Refund,Normal
+Account,0.599,High,0.917,Customer success,4,True,T101962,"Hi team, when will order #42954 be shipped, blocked. Also please change the email address on my account. Thank you",Shipping,High
+Technical,0.966,Normal,0.969,Tech support,24,False,T102350,error 500 when I try to export the report. Thanks,Technical,Normal
+Billing,0.733,High,0.992,Finance,4,False,T100319,"payment failed but money lfet my account, today. Thanks",Billing,High
+Billing,0.945,Normal,0.978,Finance,24,False,T101710,why did my card get cahrged 99 euro when I cancelled. Best regards,Billing,Normal
+Shipping,0.997,Normal,0.977,Logistics,24,False,T100872,can I change the delivery address for order #84431.,Shipping,Normal
+Technical,0.983,High,0.958,Tech support,4,False,T102154,"Hi team, error 404 when I try to export the report, asap. Thank you",Technical,High
+Account,0.958,High,0.981,Customer success,4,False,T100056,"Dear support, please change the email address on my account, today.",Account,High
+Technical,0.968,Normal,0.939,Tech support,24,False,T100438,sync with Google Sheets stopped working yesterday. Thank you,Technical,Normal
+Technical,0.966,Normal,0.974,Tech support,24,False,T100216,page is very slow and times out after 30 seconds. Kind regards,Technical,Normal
+Shipping,0.431,High,0.904,Logistics,4,True,T100789,"Hello, the package arrived damaged, asap. Also please refund the 49 euro I paid by mistake. Thanks",Shipping,High
+Billing,0.976,High,0.966,Finance,4,False,T102319,"Dear support, the VAT on my last invoice looks wrong, asap.",Billing,High
+Technical,0.963,High,0.949,Tech support,4,False,T100954,"Hi team, login works but the billing button does nothing, cannot work. Thank you",Technical,High
+Account,0.682,Normal,0.981,Customer success,24,False,T101691,please delete my account and my data. Also why did my card get charged 49 euro when I cancelled. Kind regards,Account,Normal
+Technical,0.986,Normal,0.959,Tech support,24,False,T102316,"Dear support, sync with Outlook stopped working yesterday. Thanks",Refund,Normal
+Technical,0.98,Normal,0.979,Tech support,24,False,T101878,"Dear support, the app crashes when I open the billing page. Thank you",Technical,Normal
+Billing,0.971,Low,0.988,Finance,72,False,T102622,"invoice INV-1827 shows the wrong amount, please corrcet it, no rush. Thanks",Billing,Low
+Shipping,0.995,Normal,0.976,Logistics,24,False,T101811,can I change the delivery address for order #69011. Kind regards,Shipping,Normal
+Technical,0.974,Normal,0.964,Tech support,24,False,T100684,"Good morning, page is very slow and times out after 30 seconds. Thank you",Technical,Normal
+Account,0.978,Normal,0.982,Customer success,24,False,T100115,"Hi team, please delete my account and my data. Thanks",Account,Normal
+Technical,0.994,Normal,0.986,Tech support,24,False,T102636,error 403 when I try to export the report. Best regards,Technical,Normal
+Shipping,0.974,High,0.989,Logistics,4,False,T100713,"the package arrived damaged, cannot work. Thank you",Shipping,High
+Account,0.964,High,0.972,Customer success,4,False,T102413,"Hello, my account is locked after too many attempts, cannot work. Thank you",Account,High
+Account,0.982,Normal,0.961,Customer success,24,False,T100200,please change the email address on my account.,Account,Normal
+Technical,0.992,Low,0.802,Tech support,72,False,T100888,"Dear support, sync with Outlook stopped working yesterday, qiuck question. Thanks",Technical,Low
+Technical,0.97,Low,0.949,Tech support,72,False,T102909,"sync with Google Sheets stopped working yesterday, no rush. Thank you",Technical,Low
+Shipping,0.916,Normal,0.984,Logistics,24,False,T100841,"Hello, the package arrived dmaaged. Thank you",Shipping,Normal
+Billing,0.507,Normal,0.976,Finance,24,True,T100703,"Dear support, how do I add a new user to our team account. Also why did my card get charged 49 euro when I cancelled.",Account,Normal
+Technical,0.792,Normal,0.942,Tech support,24,False,T102918,"Hello, sync with Shopify stopped working yesterday. Also how long does a refund take after the return.",Technical,Normal
+Account,0.942,Normal,0.983,Customer success,24,False,T102412,how do I add a new user to our team account. Kind regards,Account,Normal
+Billing,0.957,Normal,0.982,Finance,24,False,T100244,"Hi team, why did my card get charged 99 euro when I cancelled. Best regards",Billing,Normal
+Billing,0.726,High,0.819,Finance,4,False,T100257,"Hi team, payment failed but money left my account, cannot work. Also I cannot reset my password, the link expired. Thanks",Billing,High
+Billing,0.992,Normal,0.979,Finance,24,False,T100644,I was charged twice for my Basic subscription this month. Kind regards,Billing,Normal
+Account,0.802,Normal,0.981,Customer success,24,False,T101666,"Dear support, my account is locked atfer too many attempts. Kind regards",Account,Normal
+Technical,0.989,Low,0.978,Tech support,72,False,T100342,"Good morning, sync with Outlook stopped working yesterday, just a question. Thank you",Technical,Low
+Shipping,0.647,Low,0.903,Logistics,72,False,T102574,"Dear support, parcel was delivered to the wrong address, just a question. Also dashboard is not loading since the last update. Best regards",Shipping,Low
+Account,0.972,High,0.858,Customer success,4,False,T100075,"Hello, please change the email address on my account, immediatley. Kind regards",Account,High
+Refund,0.955,High,0.847,Finance,4,False,T100827,"Dear support, I want a refund for order #80371, the product is faulty, cannot wokr. Thanks",Refund,High
+Account,0.989,Low,0.982,Customer success,72,False,T101267,"please delete my account and my data, no rush. Thanks",Account,Low
+Billing,0.961,Normal,0.923,Finance,24,False,T100447,"Good morning, invoice INV-1621 shows the wrong amount, please correct it. Thanks",Billing,Normal
+Billing,0.949,Normal,0.919,Finance,24,False,T102645,"Good morning, invoice IN-V3616 shows the wrong amount, please correct it. Thank you",Billing,Normal
+Account,0.945,Normal,0.988,Customer success,24,False,T100755,please delete my account and my data. Best regards,Account,Normal
+Refund,0.779,Low,0.869,Finance,72,False,T100061,"please refund the 19 euro I paid by mistake, quick question. Also payment failed but money left my account. Kind regards",Refund,Low
+Technical,0.979,Normal,0.954,Tech support,24,False,T101583,"Dear support, sync with Outlook stoppde working yesterday. Thanks",Technical,Normal
+Billing,0.831,Low,0.95,Finance,72,False,T100127,"need a copy of the invoice for April for our accounting, quick question. Also please delete my account and my data. Thanks",Billing,Low
+Technical,0.927,Low,0.958,Tech support,72,False,T101307,"Good morning, dashboard is not loading since the last update, no rush. Kind regards",Technical,Low
+Technical,0.984,High,0.987,Tech support,4,False,T101799,"Dear support, page is very slow and times out after 30 seconds, immediately. Thank you",Technical,High
+Shipping,0.98,Normal,0.924,Logistics,24,False,T100857,"Hello, tracking number for order #13009 does not work. Kind regards",Shipping,Normal
+Shipping,0.981,High,0.974,Logistics,4,False,T100413,"tracking number for order #89433 does not work, cannot work.",Shipping,High
+Refund,0.985,Normal,0.966,Finance,24,False,T100470,"Hello, cancel my order #20831 and refund the payment.",Refund,Normal
+Account,0.956,High,0.974,Customer success,4,False,T101821,"Good morning, need to change the owner of the company account, urgent.",Account,High
+Refund,0.946,Normal,0.978,Finance,24,False,T102042,"refund was only partial, 19 euro are missing. Best regards",Refund,Normal
+Refund,0.948,Normal,0.976,Finance,24,False,T101975,"Hello, cancel my order #31440 and refund the payment. Best regards",Refund,Normal
+Refund,0.96,Normal,0.956,Finance,24,False,T101848,"Dear support, returned the item 14 days ago and still no refund.",Refund,Normal
+Billing,0.73,Normal,0.962,Finance,24,False,T100251,"invoice INV-5366 shows the wrong amount, please correct it. Also please delete my account and my data. Best regards",Billing,Normal
+Technical,0.989,Normal,0.98,Tech support,24,False,T101192,error 403 when I try to export the report. Thanks,Technical,Normal
+Shipping,0.973,Normal,0.973,Logistics,24,False,T102011,"Hi team, my order #60154 has not arrived after 14 days.",Shipping,Normal
+Shipping,0.972,Normal,0.985,Logistics,24,False,T101254,the package arrived damaged. Thank you,Shipping,Normal
+Technical,0.994,Normal,0.974,Tech support,24,False,T101630,"Hello, error 502 when I try to export the report. Thank you",Technical,Normal
+Account,0.972,Normal,0.97,Customer success,24,False,T101031,"Hi team, please change the email address on my account. Best regards",Account,Normal
+Shipping,0.979,Normal,0.955,Logistics,24,False,T100676,tracking number for order #11535 does not work. Best regards,Shipping,Normal
+Technical,0.99,Low,0.966,Tech support,72,False,T101013,"Hello, sync with Google Sheets stopped working yesterday, quick question.",Technical,Low
+Shipping,0.986,Normal,0.971,Logistics,24,False,T102678,"Good morning, my order #49382 has not arrived after 7 days. Thanks",Shipping,Normal
+Refund,0.929,Normal,0.976,Finance,24,False,T100865,"Hi team, please refund the 49 euro I paid by mistake. Kind regards",Refund,Normal
+Refund,0.975,High,0.988,Finance,4,False,T100706,"how long does a refund take after the return, cannot work.",Refund,High
+Billing,0.957,High,0.987,Finance,4,False,T101337,"Dear support, the VAT on my last invoice looks wrong, immediately. Thanks",Billing,High
+Shipping,0.982,Normal,0.978,Logistics,24,False,T101831,tracking number for order #96105 does not wokr.,Shipping,Normal
+Shipping,0.991,Normal,0.965,Logistics,24,False,T100566,"Hi team, can I change the delivery address for order #19552. Thank you",Shipping,Normal
+Technical,0.982,Normal,0.972,Tech support,24,False,T100820,"Good morning, error 403 when I try to export the report. Thanks",Technical,Normal
+Shipping,0.98,Normal,0.942,Logistics,24,False,T100394,tracking number for order #29082 deos not work. Best regards,Shipping,Normal
+Shipping,0.948,High,0.968,Logistics,4,False,T100422,"Dear support, parcel was delivered to the wrong address, urgent. Best regards",Shipping,High
+Technical,0.965,Normal,0.969,Tech support,24,False,T102897,"Good morning, error 403 when I try to exoprt the report. Thank you",Technical,Normal
+Refund,0.986,High,0.97,Finance,4,False,T101617,"I want a refund for order #42515, the product is fault,y today. Thanks",Refund,High
+Refund,0.954,Normal,0.967,Finance,24,False,T101050,"Dear support, how long does a refund take after the return. Thank you",Refund,Normal
+Technical,0.939,Normal,0.971,Tech support,24,False,T100176,page is very slow and times out after 30 seconds. Thanks,Technical,Normal
+Technical,0.853,Normal,0.957,Tech support,24,False,T102877,"Hello, page is very slow and times out after 30 seconds. Also can I change the delivery address for order #12345. Thanks",Technical,Normal
+Billing,0.887,Normal,0.959,Finance,24,False,T101250,"Dear support, need a copy of the invoice for March for our accounting. Also I cannot reset my passwodr, the link expired. Thank you",Billing,Normal
+Billing,0.977,Low,0.993,Finance,72,False,T102090,"the VAT on my last invoice looks wrong, just a question.",Billing,Low
+Technical,0.71,Low,0.911,Tech support,72,False,T102194,"Dear support, cancel my order #72828 and refund the payment, just a question. Also the app crashes when I open the reports page. Best regards",Refund,Low
+Billing,0.574,Normal,0.929,Finance,24,True,T101285,"Dear support, invoice INV-5454 shows the wrong amount, please correct it. Also sync with Shopify stopped working yesterday. Thank you",Billing,Normal
+Refund,0.958,High,0.969,Finance,4,False,T100783,"Hello, please refund the 120 euro I apid by mistake, blocked. Thank you",Refund,High
+Refund,0.964,High,0.98,Finance,4,False,T102828,"I want a refund for order #81862, the product is faulty, cannot work. Thank you",Refund,High
+Technical,0.546,Normal,0.988,Tech support,24,True,T101395,login works but the analytics button does nothing. lAso parcel was delivered to the wrong address. Kind regards,Technical,Normal
+Refund,0.958,Normal,0.979,Finance,24,False,T102276,"Hello, refund was only partial, 19 euro are missing. Best regards",Refund,Normal
+Refund,0.941,High,0.973,Finance,4,False,T101390,"Good morning, refund was only partial, 240 euro are missing, immediately.",Refund,High
+Technical,0.781,Normal,0.947,Tech support,24,False,T102680,"Good morning, dashboard is not loading since the last update. Also how long does a refund take after the return. Thank you",Technical,Normal
+Technical,0.898,Low,0.978,Tech support,72,False,T100801,"login works but the settings button does nothing, when you have time. Thank you",Technical,Low
+Refund,0.722,Normal,0.952,Finance,24,False,T101034,"Good morning, how long does a refund take after the return. Also nede a copy of the invoice for May for our accounting.",Refund,Normal
+Refund,0.977,Normal,0.972,Finance,24,False,T101253,please refund the 120 euro I paid by mistake. Thanks,Refund,Normal
+Technical,0.835,Normal,0.95,Tech support,24,False,T101867,"Good morning, page is very slow and times out after 30 seconds. Also how long does a refund take after the return.",Technical,Normal
+Technical,0.722,High,0.915,Tech support,4,False,T100674,"Dear support, dashboard is not loading since the last update, blocked. Also I cannot reset my password, the link expired. Thanks",Technical,High
+Refund,0.989,High,0.941,Finance,4,False,T100590,"Dear support, cancel my order #87274 and refund the payment, urgent.",Refund,High
+Billing,0.968,High,0.96,Finance,4,False,T102939,"Dear support, need a copy of the invoice for May for our accounting, asap. Kind regards",Billing,High
+Account,0.975,Normal,0.982,Customer success,24,False,T100109,"Dear support, please delete my account and my data. Thanks",Account,Normal
+Account,0.98,Normal,0.978,Customer success,24,False,T101110,need to change the owner of the company account. Thanks,Account,Normal
+Technical,0.975,Normal,0.933,Tech support,24,False,T102428,"Dear support, page is very slow and times out after 30 secnods. Thank you",Technical,Normal
+Refund,0.994,Normal,0.965,Finance,24,False,T101485,please refund the 99 euro I paid by mistake. Thanks,Refund,Normal
+Account,0.536,Normal,0.969,Customer success,24,True,T101130,"Hello, my account is locked after too many attempts. Also how long does a refund take after the return. Best regards",Account,Normal
+Billing,0.961,High,0.965,Finance,4,False,T101070,"Hi team, the VAT on my last invoice looks wrong, today.",Billing,High
+Refund,0.969,High,0.967,Finance,4,False,T101832,"Dear support, I want a refund for order #89491, the product is faulty, blocked. Best regards",Refund,High
+Billing,0.612,Normal,0.955,Finance,24,False,T100979,why did my card get charged 240 euro when I cancelled. Also dashboard is not loading since the last update.,Billing,Normal
+Technical,0.976,High,0.971,Tech support,4,False,T101523,"Hi team, sync with Shopiyf stopped working yesterday, cannot work.",Technical,High
+Technical,0.962,Normal,0.963,Tech support,24,False,T102398,sync with uOtlook stopped working yesterday. Kind regards,Technical,Normal
+Technical,0.971,Normal,0.983,Tech support,24,False,T101352,"Hello, login works but the settings button does nothing. Best regards",Technical,Normal
+Technical,0.959,Normal,0.967,Tech support,24,False,T100171,"Good morning, page is very slow and times out after 30 seconds. Kind regards",Technical,Normal
+Refund,0.99,High,0.983,Finance,4,False,T101972,"cancel my order #65058 and refund the payment, urgent. Best regards",Refund,High
+Shipping,0.939,Normal,0.974,Logistics,24,False,T101355,"Dear support, my order #74392 has not arrived after 10 days. Thanks",Shipping,Normal
+Refund,0.956,High,0.971,Finance,4,False,T102566,"Good morning, cancel my order #91916 and refund the payment, cannot work. Thank you",Refund,High
+Shipping,0.926,High,0.983,Logistics,4,False,T100861,"Hello, tracking number for oredr #18205 does not work, today. Thanks",Shipping,High
+Billing,0.964,Normal,0.961,Finance,24,False,T101550,"Dear support, I was charged twice for my Pro subscription this month. Kind regards",Billing,Normal
+Refund,0.98,Normal,0.969,Finance,24,False,T102360,how long does a refund take after the return. Kind regards,Refund,Normal
+Refund,0.982,High,0.973,Finance,4,False,T101336,"Dear support, I want a refund for order #69753, the product is faulty, blocked. Kind regards",Refund,High
+Billing,0.989,High,0.965,Finance,4,False,T102462,"invoice INV-6615 shows the wrong amount, please correct it, cannot work. Thanks",Billing,High
+Refund,0.948,Normal,0.951,Finance,24,False,T102901,"Good morning, refund was only partial, 49 euro are missing. Thanks",Refund,Normal
+Technical,0.805,Normal,0.959,Tech support,24,False,T100511,error 404 when I try to export the report. Also my order #12345 has not arrived after 7 days. Thanks,Technical,Normal
+Technical,0.908,Normal,0.966,Tech support,24,False,T102748,"Dear support, sync with Shopify stopped working yesterday. Best regards",Technical,Normal
+Technical,0.982,Normal,0.975,Tech support,24,False,T102484,"Hi team, reror 502 when I try to export the report. Thank you",Technical,Normal
+Billing,0.976,Normal,0.981,Finance,24,False,T100563,need a cpoy of the invoice for May for our accounting.,Billing,Normal
+Account,0.931,Normal,0.983,Customer success,24,False,T101761,"Hi team, need to change the owner of the compnay account. Best regards",Account,Normal
+Billing,0.833,Normal,0.988,Finance,24,False,T101265,"Hi team, the VAT on my last invoice loosk wrong. Best regards",Billing,Normal
+Account,0.986,High,0.963,Customer success,4,False,T102869,"Dear support, please delete my account and my data, urgent. Thanks",Account,High
+Technical,0.945,Normal,0.977,Tech support,24,False,T100380,login works but the billing button does nothing.,Technical,Normal
+Billing,0.967,Low,0.985,Finance,72,False,T100444,"Good morning, invoice INV-6842 shows the wrong amount, please correct it, quick question. Kind regards",Billing,Low
+Technical,0.727,Low,0.819,Tech support,72,False,T101379,"Hello, login works but the reports button does nothing, wehn you have time. Also my order #12345 has not arrived after 7 days. Thanks",Technical,Low
+Account,0.958,Normal,0.978,Customer success,24,False,T101685,my account is locked after too many attempts. Thanks,Account,Normal
+Billing,0.96,Low,0.982,Finance,72,False,T101332,"I was charged twice for my Pro subscription this month, when you have time. Kind regards",Billing,Low
+Refund,0.979,Normal,0.968,Finance,24,False,T102808,"Good morning, refund was only partial, 19 euro are missing.",Refund,Normal
+Refund,0.617,Normal,0.957,Finance,24,False,T101644,"Hello, returned the item 10 days ago and still no refund. Also the VAT on my last invoice looks wrong. Thank you",Refund,Normal
+Technical,0.969,Low,0.987,Tech support,72,False,T100621,"Good morning, page is very slow and times out after 30 seconds, just a question. Best regards",Technical,Low
+Shipping,0.984,High,0.961,Logistics,4,False,T101384,"can I change the delivery address for order #67752, urgent. Thanks",Shipping,High
+Account,0.964,High,0.972,Customer success,4,False,T100805,"Hello, my account is locked after too many attempts, cannot work. Thank you",Account,High
+Account,0.98,Normal,0.971,Customer success,24,False,T101841,"Hello, please change the email address on my account. Kind regards",Account,Normal
+Refund,0.987,Normal,0.975,Finance,24,False,T102750,"Hello, refund was only partial, 19 euro are missing. Thanks",Refund,Normal
+Shipping,0.962,High,0.972,Logistics,4,False,T100432,"parcel was delivered to the wrong address, asap. Kind regards",Shipping,High
+Technical,0.992,Normal,0.959,Tech support,24,False,T100585,"Hello, sync with Outlook stopped working yesterday.",Technical,Normal
+Refund,0.99,Normal,0.961,Finance,24,False,T100945,"Hi team, refund was only partial, 99 euro are missing. Thanks",Refund,Normal
+Technical,0.986,Normal,0.96,Tech support,24,False,T102435,"Dear support, page is very slow and times out after 30 seconds.",Technical,Normal
+Shipping,0.981,Low,0.988,Logistics,72,False,T101238,"Hello, parcel was delivered to the wrong address, when you have time.",Shipping,Low
+Technical,0.979,Normal,0.973,Tech support,24,False,T100504,"Good morning, login works but the analytics button does nothing.",Technical,Normal
+Account,0.974,High,0.982,Customer success,4,False,T102905,"Hi team, please change the email address on my account, asap. Best regards",Account,High
+Technical,0.569,High,0.859,Tech support,4,True,T100429,"login works but the billing button does nothing, cannot work. Also why did my card get charged 49 euro when I cancelled.",Technical,High
+Technical,0.978,Normal,0.983,Tech support,24,False,T100134,"Hello, login works but the settings button does nothing. Kind regards",Technical,Normal
+Shipping,0.986,Low,0.983,Logistics,72,False,T101641,"Dear support, tracking number for order #74630 does not work, quick question.",Shipping,Low
+Shipping,0.971,High,0.981,Logistics,4,False,T101516,"Good morning, parcel was delivered to the wrong address, cannot work.",Shipping,High
+Account,0.958,Normal,0.978,Customer success,24,False,T100220,my account is locked after too many attempts. Thanks,Account,Normal
+Account,0.96,Normal,0.977,Customer success,24,False,T102755,"Good morning, please delete my account and my data. Kind regards",Account,Normal
+Shipping,0.992,Normal,0.978,Logistics,24,False,T101816,"Hello, can I change the delivery address for order #15205. Best regards",Shipping,Normal
+Billing,0.975,Low,0.985,Finance,72,False,T101165,"I was charged twice for my Pro subscription this month, when you have time.",Billing,Low
+Refund,0.866,Normal,0.939,Finance,24,False,T100072,"refund was only partial, 99 euro are missing. Also the app crashes when I oepn the reports page.",Refund,Normal
+Shipping,0.992,Low,0.703,Logistics,72,False,T101283,"Dear support, tracking number for order #61827 does not work, when you hvae time.",Shipping,Low
+Shipping,0.963,Normal,0.987,Logistics,24,False,T102637,"Hello, the package arrived dmaaged.",Shipping,Normal
+Shipping,0.987,Normal,0.958,Logistics,24,False,T100765,"Hi team, tracking number for order #60837 does not work. Kind regards",Shipping,Normal
+Technical,0.481,Low,0.928,Tech support,72,True,T101808,"Hello, the app crashes when I open the settings page, when you have time. Also the package arrived damaged. Thank you",Technical,Low
+Shipping,0.97,Low,0.988,Logistics,72,False,T102698,"parcel was delivered to the wrong address, quick question. Best regards",Shipping,Low
+Billing,0.958,Normal,0.975,Finance,24,False,T102188,"Good morning, why did my card get charged 120 euro when I cancelled. Best regards",Billing,Normal
+Refund,0.94,Normal,0.966,Finance,24,False,T100392,how long does a refnud take after the return.,Refund,Normal
+Refund,0.686,Normal,0.972,Finance,24,False,T100053,cancel my order #48680 and refudn the payment. Thank you,Refund,Normal
+Shipping,0.991,Normal,0.987,Logistics,24,False,T101898,the package arrived damaged.,Shipping,Normal
+Shipping,0.975,Normal,0.977,Logistics,24,False,T101080,my order #92951 has not arrived after 10 days.,Shipping,Normal
+Account,0.952,Normal,0.987,Customer success,24,False,T101088,plaese delete my account and my data.,Account,Normal
+Shipping,0.989,High,0.948,Logistics,4,False,T100312,"can I change the delivery address for order #19188, today. Thanks",Shipping,High
+Account,0.964,Normal,0.919,Customer success,24,False,T102228,"Dear support, my account is locked after too many attempts, aspa. Best regards",Account,High
+Technical,0.961,High,0.974,Tech support,4,False,T100595,"Hello, page is very slow and times out after 30 seconds, blocked. Kind regards",Technical,High
+Refund,0.922,Low,0.982,Finance,72,False,T102147,"Good morning, please refund the 49 euro I paid by mistake, quick question.",Refund,Low
+Technical,0.99,Normal,0.975,Tech support,24,False,T101304,error 404 when I try to export the report.,Technical,Normal
+Billing,0.959,Normal,0.949,Finance,24,False,T102868,"Dear support, invoice INV-8586 shows the wrong amount, please correct it. Thank you",Billing,Normal
+Billing,0.97,High,0.957,Finance,4,False,T100456,"Hi team, invoice INV-3200 shows the wrong amount, please correct it, urgent. Thank you",Billing,High
+Shipping,0.991,High,0.973,Logistics,4,False,T101274,"tracking number for order #38387 does not work, today.",Shipping,High
+Refund,0.972,Normal,0.954,Finance,24,False,T100749,"Good morning, cancel my order #40776 and refund the payment. Thanks",Refund,Normal
+Technical,0.987,Low,0.961,Tech support,72,False,T101451,"Hello, sync with Outlook stopped working yesterday, no rush. Thanks",Technical,Low
+Refund,0.988,Normal,0.981,Finance,24,False,T100054,please refund the 19 euro I paid by mistake. Thanks,Refund,Normal
+Technical,0.666,Normal,0.958,Tech support,24,False,T101003,"Hi team, how long does a refund take after the return. Also error 500 when I try to export the report. Best regards",Refund,Normal
+Technical,0.946,Normal,0.981,Tech support,24,False,T101407,login works but the billing button does nothing. Kind regards,Technical,Normal
+Billing,0.827,Low,0.945,Finance,72,False,T100630,"why did my card get charged 99 euro when I cancelled, quick question. Also returned the item 7 days ago and tsill no refund. Thanks",Billing,Low
+Technical,0.974,Normal,0.965,Tech support,24,False,T100521,"Dear support, page is very slow and times out after 30 seconds. Kind regards",Technical,Normal
+Technical,0.841,High,0.94,Tech support,4,False,T101947,"Dear support, page is very slow and times out after 30 second,s immediately. Also need to change the owner of the company account. Thank you",Technical,High
+Account,0.951,Normal,0.986,Customer success,24,False,T102639,my account is locked after too many attempts. Best regards,Account,Normal
+Billing,0.964,Low,0.988,Finance,72,False,T102952,"invoice INV-5367 shows the wrong amount, please correct it, just a question. Kind regards",Billing,Low
+Account,0.788,Normal,0.982,Customer success,24,False,T100361,"Dear support, how do I add a new user to our team account. Best regards",Account,Normal
+Account,0.97,Low,0.959,Customer success,72,False,T100924,"my account is locked after too many attempts, no rush.",Account,Low
+Technical,0.959,Low,0.968,Tech support,72,False,T102277,"error 502 when I try to export the report, no rush. Thank you",Technical,Low
+Billing,0.938,Normal,0.959,Finance,24,False,T102621,"Hi team, invoice INV-5513 shows the wrong amount, please correct it. Kind regards",Billing,Normal
+Shipping,0.994,Normal,0.974,Logistics,24,False,T101064,can I change the delivery address for order #82767. Thank you,Shipping,Normal
+Shipping,0.868,Normal,0.963,Logistics,24,False,T102489,"Good morning, when wlil order #18141 be shipped. Thanks",Shipping,Normal
+Shipping,0.975,Normal,0.986,Logistics,24,False,T100495,"Dear support, the package arrived damaged. Best regards",Shipping,Normal
+Billing,0.965,High,0.939,Finance,4,False,T101432,"Good morning, why did my card get charged 49 euro when I cancelled, urgent. Best regards",Billing,High
+Technical,0.812,Normal,0.972,Tech support,24,False,T102063,dashboard is not loading since the last update. Also payment failed but money left my account. Thank you,Technical,Normal
+Billing,0.884,Low,0.985,Finance,72,False,T101139,"Good morning, invoice INV-3412 hsows the wrong amount, please correct it, when you have time. Best regards",Billing,Low
+Billing,0.965,High,0.954,Finance,4,False,T102924,"Hello, invoiec INV-7453 shows the wrong amount, please correct it, today.",Billing,High
+Billing,0.967,Normal,0.97,Finance,24,False,T100126,"Good morning, why did my card get charged 99 euro when I cancelled.",Billing,Normal
+Technical,0.926,Normal,0.967,Tech support,24,False,T102123,"Hello, error 500 when I try to export the report. Also please refund the 49 euro I paid by mistake. Best regards",Technical,Normal
+Account,0.967,Normal,0.983,Customer success,24,False,T100135,my account is locked after too many attempts.,Account,Normal
+Technical,0.943,High,0.974,Tech support,4,False,T101052,"Hi team, page is very slow and times out after 30 seconds, blocked. Thank you",Technical,High
+Account,0.547,High,0.803,Customer success,4,True,T100352,"Hi team, I cannot reset my password, the link expired, cannot work. Also need a copy of the invoice for May for our accounting.",Account,High
+Technical,0.978,Normal,0.964,Tech support,24,False,T102357,"Good morning, error 404 when I try to export the report.",Technical,Normal
+Technical,0.948,Normal,0.976,Tech support,24,False,T101014,the app crashes when I open the analytics page. Also please refund the 49 euro I paid by mistake. Best regards,Technical,Normal
+Shipping,0.96,High,0.962,Logistics,4,False,T101859,"Dear support, parcel was delivered to the wrong address, asap.",Shipping,High
+Billing,0.946,High,0.96,Finance,4,False,T102460,"Good morning, why did my card get charged 19 euro when I cancelled, immediately. Kind regards",Billing,High
+Shipping,0.972,Normal,0.981,Logistics,24,False,T100771,parcel was delivered to the wrong address. Thank you,Shipping,Normal
+Account,0.953,Normal,0.984,Customer success,24,False,T100854,my account is locked after too many attempts. Kind regards,Account,Normal
+Technical,0.982,High,0.988,Tech support,4,False,T101116,"Good morning, dashboard is not loading since the last update, immediately.",Technical,High
+Technical,0.943,Normal,0.98,Tech support,24,False,T100020,"Good morning, the app crashes when I open the billing page. Kind regards",Technical,Normal
+Refund,0.961,Normal,0.953,Finance,24,False,T101906,"Dear support, refund was only partial, 120 euro are missing. Thank you",Refund,Normal
+Account,0.951,Normal,0.984,Customer success,24,False,T101597,"Hello, my account is locked after too many attempts. Best regards",Account,Normal
+Technical,0.962,Normal,0.977,Tech support,24,False,T102558,"Hello, login works but the billing button does nothing.",Technical,Normal
+Shipping,0.968,Normal,0.979,Logistics,24,False,T100933,"Dear support, parcel was delivered to the wrong address. Best regards",Shipping,Normal
+Technical,0.97,Normal,0.933,Tech support,24,False,T101506,dashboard is not loading since the last updaet. Thanks,Technical,Normal
+Account,0.968,Normal,0.979,Customer success,24,False,T102234,"I cannot reset my password, the link expired.",Account,Normal
+Refund,0.572,Low,0.879,Finance,72,True,T100815,"refund was only partial, 120 euro are missing, no rush. Also error 500 when I try to export the report. Kind regards",Refund,Low
+Technical,0.967,Low,0.98,Tech support,72,False,T102607,"page is very slow and times out after 30 seconds, no rush.",Technical,Low
+Shipping,0.974,Low,0.986,Logistics,72,False,T101633,"Hello, my order #59055 has not arrived after 14 days, just a question. Kind regards",Shipping,Low
+Billing,0.966,Low,0.994,Finance,72,False,T100492,"the VAT on my last invoice looks wrong, just a question. Thank you",Billing,Low
+Technical,0.984,Normal,0.974,Tech support,24,False,T100620,"Hello, dashboard is not loading since the last update. Best regards",Technical,Normal
+Shipping,0.909,High,0.976,Logistics,4,False,T100265,"Good morning, the package arrived damaged, blocked. Thanks",Shipping,High
+Billing,0.976,Normal,0.985,Finance,24,False,T100796,why did my card get charged 19 euro when I cancelled.,Billing,Normal
+Shipping,0.992,Normal,0.971,Logistics,24,False,T101157,"Dear support, can I change the delivery address for order #26427. Thank you",Shipping,Normal
+Account,0.955,High,0.992,Customer success,4,False,T102152,"need to change the owner of the company account, immediately. Thanks",Account,High
+Account,0.983,Normal,0.965,Customer success,24,False,T102814,please change the email address on my account. Thanks,Account,Normal
+Billing,0.911,Normal,0.988,Finance,24,False,T102528,"Dear support, payment failed but money letf my account. Best regards",Billing,Normal
+Technical,0.965,Normal,0.973,Tech support,24,False,T101660,"Dear support, login works but the billing button does nothing.",Technical,Normal
+Account,0.982,Normal,0.98,Customer success,24,False,T100597,"Hi team, my account is locked after too many attempts. Thank you",Account,Normal
+Refund,0.958,Normal,0.967,Finance,24,False,T100541,"Hi team, I want a refund for order #53165, the product is faulty.",Refund,Normal
+Shipping,0.972,Low,0.701,Logistics,72,False,T102542,"parcel was delivered to the wrong address, quick questino. Kind regards",Shipping,Low
+Account,0.98,Normal,0.977,Customer success,24,False,T102708,"Hello, need to change the owner of the company account. Thank you",Account,Normal
+Shipping,0.976,Normal,0.989,Logistics,24,False,T100063,"Hi team, the package arrived damaged. Best regards",Shipping,Normal
+Shipping,0.973,Normal,0.981,Logistics,24,False,T102768,"Hi team, parcel was delivered to the wrong address. Thank you",Shipping,Normal
+Refund,0.964,Normal,0.941,Finance,24,False,T102725,"Hi team, how long does a refund take after the retrun. Kind regards",Refund,Normal
+Technical,0.983,High,0.943,Tech support,4,False,T100009,"Dear support, sync wtih Outlook stopped working yesterday, urgent.",Technical,High
+Billing,0.937,Normal,0.949,Finance,24,False,T102034,"Dear support, invoice INV-5380 shows the wrong amount, please correct it. Thank you",Billing,Normal
+Technical,0.986,Low,0.991,Tech support,72,False,T100641,"error 404 when I try to export the report, quick question. Best regards",Technical,Low
+Account,0.961,Normal,0.97,Customer success,24,False,T102231,"Hello, my account is locked after too many attmepts. Kind regards",Account,Normal
+Billing,0.969,Low,0.988,Finance,72,False,T102540,"payment failed but money left my account, no rush.",Billing,Low
+Shipping,0.977,Normal,0.977,Logistics,24,False,T101642,when will order #61691 be shipped. Kind regards,Shipping,Normal
+Refund,0.981,Low,0.978,Finance,72,False,T102531,"Hi team, refund was only partial, 99 euro are missing, just a question. Kind regards",Refund,Low
+Shipping,0.993,Normal,0.969,Logistics,24,False,T100261,"Dear support, can I change the delivery address for order #43303. Thanks",Shipping,Normal
+Billing,0.945,Low,0.944,Finance,72,False,T102303,"Hi team, the VAT on my last invoice looks wrogn, no rush.",Billing,Low
+Billing,0.99,Normal,0.971,Finance,24,False,T101721,why did my card get charged 240 euro when I cancelled.,Billing,Normal
+Shipping,0.981,Normal,0.981,Logistics,24,False,T100019,"Hi team, when will order #39154 be shipped. Best regards",Technical,Normal
+Technical,0.981,Normal,0.972,Tech support,24,False,T102893,error 404 when I try to export the report. Thanks,Technical,Normal
+Refund,0.695,Normal,0.97,Finance,24,False,T100991,cancel my order #45160 and refudn the payment. Thank you,Refund,Normal
+Technical,0.798,High,0.97,Tech support,4,False,T100968,"dashboard is not loading sinec the last update, today. Also cancel my order #12345 and refund the payment.",Technical,High
+Refund,0.915,Normal,0.963,Finance,24,False,T102218,"Hi team, I want a refund for order #47643, the product is faulty. Thanks",Refund,Normal
+Refund,0.978,Normal,0.963,Finance,24,False,T102331,"Hi team, refund was only partial, 120 euro are missing.",Refund,Normal
+Technical,0.994,Normal,0.891,Tech support,24,False,T101246,"Hello, sync with Outlook stopped working yesterday, todya. Kind regards",Technical,High
+Shipping,0.954,Normal,0.976,Logistics,24,False,T102176,my order #84205 has not arrived after 10 days. Thanks,Shipping,Normal
+Technical,0.761,Low,0.93,Tech support,72,False,T101619,"dashboard is not loading since the last update, just a question. Also invoice INV-1001 shows the wrong amount, please correct it. Kind regards",Technical,Low
+Refund,0.997,Normal,0.965,Finance,24,False,T100664,"Hello, please refund the 99 euro I paid by mistake.",Refund,Normal
+Billing,0.986,Normal,0.964,Finance,24,False,T102819,I was charged twice for my Pro subscription this month.,Billing,Normal
+Technical,0.948,Low,0.909,Tech support,72,False,T100661,"Hi team, sync with Google Sheets stopped working yesterday, just a question. Also need to cahnge the owner of the company account.",Technical,Low
+Shipping,0.996,Normal,0.979,Logistics,24,False,T101505,can I change the delivery address for order #92531. Best regards,Shipping,Normal
+Billing,0.977,Low,0.973,Finance,72,False,T101239,"why did my card get charged 240 euro when I cancelled, when you have time. Best regards",Billing,Low
+Refund,0.932,Normal,0.963,Finance,24,False,T101881,"Good morning, returned the item 21 days ago and still no refund. Kind regards",Refund,Normal
+Technical,0.616,Normal,0.955,Tech support,24,False,T101676,"Good morning, my account is locked after too many attempts. Also the app crashes when I open the reports page.",Account,Normal
+Account,0.973,Normal,0.974,Customer success,24,False,T100981,"Dear support, need to change the owner of the company account.",Account,Normal
+Billing,0.987,Low,0.964,Finance,72,False,T102743,"Hello, I was charged twice for my Basic subscription this month, when you have time. Thank you",Billing,Low
+Technical,0.974,High,0.963,Tech support,4,False,T100963,"Good morning, error 502 when I try to export the report, blocked. Thank you",Technical,High
+Technical,0.973,Normal,0.977,Tech support,24,False,T100328,"Dear support, error 404 when I try to export the report. Best regards",Technical,Normal
+Billing,0.983,Normal,0.988,Finance,24,False,T101845,payment failed but money left my account. Thanks,Billing,Normal
+Technical,0.89,High,0.976,Tech support,4,False,T100973,"Good morning, error 404 when I try to epxort the report, today. Thanks",Technical,High
+Shipping,0.96,Low,0.992,Logistics,72,False,T101344,"parcel was delivered to the wrong address, quick question. Thanks",Shipping,Low
+Shipping,0.975,Low,0.989,Logistics,72,False,T100631,"Hello, my order #95697 has not arrived after 14 days, when you have time.",Shipping,Low
+Account,0.969,Normal,0.978,Customer success,24,False,T100451,"Dear support, I cannot reset my password, the link expired.",Account,Normal
+Account,0.941,High,0.974,Customer success,4,False,T101481,"Good morning, need to change the owner of the company account, blocked.",Account,High
+Account,0.941,High,0.991,Customer success,4,False,T100108,"how do I add a new user to our team account, asap.",Account,High
+Technical,0.959,Normal,0.967,Tech support,24,False,T102283,"Good morning, page is very slow and times out after 30 seconds. Kind regards",Technical,Normal
+Refund,0.969,High,0.961,Finance,4,False,T100542,"Good morning, refund was only partial, 19 euro are missing, immediately.",Refund,High
+Technical,0.965,Low,0.973,Tech support,72,False,T100638,"sync with Google Sheets stopped working yesterday, just a question. Kind regards",Technical,Low
+Refund,0.94,Normal,0.971,Finance,24,False,T102832,"I want a refund for order #80340, the product is faulty. Kind regards",Refund,Normal
+Refund,0.976,Normal,0.957,Finance,24,False,T100445,"Good morning, how long does a refund take after the return. Best regards",Refund,Normal
+Technical,0.915,Normal,0.984,Tech support,24,False,T100192,"Hi team, the app crashes when I open the settings page.",Technical,Normal
+Technical,0.934,Low,0.948,Tech support,72,False,T100640,"Hi team, the app crashes when I open the settings page, no rush. Best regards",Technical,Low
+Account,0.982,Normal,0.961,Customer success,24,False,T101750,please change the email address on my account.,Account,Normal
+Technical,0.961,Low,0.958,Tech support,72,False,T102588,"Dear support, login works but the analytics button does nothing, when you have time. Thank you",Technical,Low
+Refund,0.926,Normal,0.978,Finance,24,False,T101621,"Hi team, please refund the 49 euro I paid by mistake. Best regards",Refund,Normal
+Billing,0.973,Normal,0.972,Finance,24,False,T102251,"Hi team, I was charged twice for my Pro subscription this month. Best regards",Billing,Normal
+Technical,0.913,Normal,0.975,Tech support,24,False,T100957,"Good morning, the app crashes when I open the billing page. Thanks",Technical,Normal
+Billing,0.965,Normal,0.988,Finance,24,False,T101197,"Dear support, payment failed but money left my account. Best regards",Billing,Normal
+Technical,0.979,Normal,0.975,Tech support,24,False,T102362,dashboard is not loading since the last update. Kind regards,Technical,Normal
+Billing,0.986,Normal,0.975,Finance,24,False,T101885,"Hi team, need a copy of the invoice for June for our accounting. Kind regards",Billing,Normal
+Account,0.98,Normal,0.977,Customer success,24,False,T101155,"Hi team, need to change the owner of the company account.",Account,Normal
+Account,0.987,High,0.964,Customer success,4,False,T101900,"please delete my account and my data, asap. Kind regards",Account,High
+Technical,0.966,Normal,0.981,Tech support,24,False,T102928,login works but the analytics button does nothing. Thank you,Billing,Normal
+Technical,0.967,Normal,0.939,Tech support,24,False,T100814,"Good morning, sync with Google Sheets stopped working yesterday. Kind regards",Technical,Normal
+Technical,0.48,Normal,0.959,Tech support,24,True,T100455,need to chagne the owner of the company account. Also login works but the reports button does nothing.,Account,Normal
+Billing,0.977,Normal,0.985,Finance,24,False,T102469,"Dear support, payment failed but money left my account.",Billing,Normal
+Billing,0.957,Normal,0.988,Finance,24,False,T102916,"Dear support, payment failed but money left my account. Kind regards",Billing,Normal
+Account,0.861,Normal,0.961,Customer success,24,False,T102881,"Dear support, I cannot reste my password, the link expired. Best regards",Account,Normal
+Technical,0.981,Normal,0.962,Tech support,24,False,T102217,sync with Outlook stopped working yesterday. Thanks,Technical,Normal
+Billing,0.537,Normal,0.981,Finance,24,True,T100102,the VAT on my last invoice looks wrong. Also please delete my account and my data.,Billing,Normal
+Billing,0.715,Normal,0.962,Finance,24,False,T101763,"Hi team, why did my card get charged 240 euro when I cancelled. Also page is very slow and times out after 30 seconds.",Billing,Normal
+Account,0.871,Low,0.99,Customer success,72,False,T100598,"Hello, need to change the owner of the company account, quick question. Best regards",Account,Low
+Account,0.61,Normal,0.936,Customer success,24,False,T102714,"Good morning, cancel my order #74976 and refund the payment. Also please change the email address on my account. Thanks",Refund,Normal
+Refund,0.973,Normal,0.956,Finance,24,False,T102886,"Good morning, cancel my order #73882 and refund the payment.",Refund,Normal
+Shipping,0.917,High,0.991,Logistics,4,False,T100180,"the package arrived damaegd, immediately. Kind regards",Shipping,High
+Billing,0.977,Low,0.93,Finance,72,False,T102226,"Dear support, why did my card get charged 240 euro when I cancelled, no rush. Best regards",Billing,Low
+Billing,0.967,Low,0.977,Finance,72,False,T101457,"Good morning, I was charged twice for my Pro subscription this month, quick question.",Billing,Low
+Billing,0.635,Low,0.932,Finance,72,False,T101543,"Hello, when will order #11588 be shipped, when you have time. Also need a copy of the invoice for May for our accounting. Thanks",Shipping,Low
+Billing,0.969,Normal,0.952,Finance,24,False,T100561,"Dear support, I was charged twice for my Pro subscription this month. Thanks",Billing,Normal
+Shipping,0.99,Normal,0.948,Logistics,24,False,T101662,"Dear support, tracking number for order #75148 does not work.",Shipping,Normal
+Technical,0.985,Low,0.991,Tech support,72,False,T102853,"the app crashes when I open the reports page, just a question.",Technical,Low
+Billing,0.629,Normal,0.973,Finance,24,False,T102807,"Hi team, the package arrived damaged. Also I was charged twice for my Pro subscription this month. Kind regards",Shipping,Normal
+Shipping,0.976,High,0.895,Logistics,4,False,T102495,"Hello, can I change the delivery address for order #53055, asap. Thank you",Shipping,High
+Technical,0.905,Normal,0.951,Tech support,24,False,T101996,sync with Google Sheets stopped working yesterday. Also how do I add a new user to our team account. Kind regards,Technical,Normal
+Account,0.981,Normal,0.965,Customer success,24,False,T100212,"Dear support, please change the email address on my account. Thanks",Account,Normal
+Shipping,0.919,Low,0.992,Logistics,72,False,T101154,"Dear support, my odrer #89359 has not arrived after 7 days, just a question. Thank you",Shipping,Low
+Account,0.919,High,0.971,Customer success,4,False,T100049,"Good morning, I cannot reset my password, the link expired, immediately. Thank you",Account,High
+Shipping,0.98,Normal,0.953,Logistics,24,False,T102737,tracking number for order #16788 does not work. Thanks,Shipping,Normal
+Refund,0.964,Low,0.978,Finance,72,False,T102964,"Hello, cancel my order #31328 and refund the payment, just a question. Best regards",Refund,Low
+Technical,0.873,Low,0.926,Tech support,72,False,T100089,"Hello, page is very slow and times out after 30 seconds, just a question. Also I cannot reset my password, the link expired. Thanks",Technical,Low
+Technical,0.721,Low,0.908,Tech support,72,False,T102399,"Hi team, sync with Shopify stopped working yesterday, when you have time. Also how long does a refund take after the return. Thank you",Billing,Low
+Billing,0.965,Normal,0.979,Finance,24,False,T101788,"Hello, need a cpoy of the invoice for May for our accounting.",Billing,Normal
+Technical,0.989,Low,0.983,Tech support,72,False,T100229,"Dear support, error 403 when I try to export the report, quick question.",Technical,Low
+Shipping,0.962,Normal,0.979,Logistics,24,False,T100465,"Hello, parcel was delivered to the wrong address. Thank you",Shipping,Normal
+Technical,0.949,Normal,0.979,Tech support,24,False,T101579,page is very slow and timse out after 30 seconds. Kind regards,Technical,Normal
+Billing,0.882,High,0.932,Finance,4,False,T101628,"Hello, payment failed but money letf my account, today. Also tracking number for order #12345 does not work. Best regards",Billing,High
+Technical,0.953,Low,0.97,Tech support,72,False,T100035,"Good morning, login wroks but the analytics button does nothing, quick question. Thanks",Technical,Low
+Account,0.905,Low,0.991,Customer success,72,False,T100624,"Hi team, need to change the owner of the company account, when you have time.",Account,Low
+Account,0.622,Normal,0.968,Customer success,24,False,T102612,"I cannot reset my password, the link expired. Also need a copy of the invoice for May for our accounting.",Account,Normal
+Shipping,0.996,Normal,0.967,Logistics,24,False,T101016,"Good morning, can I change the delivery address for order #61573. Thank you",Shipping,Normal
+Refund,0.917,Normal,0.971,Finance,24,False,T102767,cancel my order #21944 and refund the payment. Thank you,Refund,Normal
+Shipping,0.979,High,0.968,Logistics,4,False,T102693,"Good morning, when will order #95001 be shipped, cannot work. Best regards",Shipping,High
+Billing,0.978,Low,0.947,Finance,72,False,T102518,"I was charged twice for my Team subscription this month, no rush. Kind regards",Billing,Low
+Refund,0.604,Normal,0.969,Finance,24,False,T101696,"Dear support, refund was only partila, 120 euro are missing. Also the VAT on my last invoice looks wrong. Best regards",Refund,Normal
+Technical,0.961,High,0.974,Tech support,4,False,T100559,"Hello, page is very slow and times out after 30 seconds, blocked. Kind regards",Technical,High
+Technical,0.868,Normal,0.949,Tech support,24,False,T102655,"Hello, sync with Shopify stopped working eysterday. Thank you",Technical,Normal
+Account,0.509,Normal,0.991,Customer success,24,True,T102067,parcel was delivered to the wrong address. Alos please delete my account and my data. Best regards,Shipping,Normal
+Billing,0.971,Normal,0.956,Finance,24,False,T101281,"invoice INV-3143 shows the wrong amount, please correct it. Kind regards",Technical,Normal
+Billing,0.975,Normal,0.943,Finance,24,False,T101062,"invoice INV-1129 shows the wrong amount, please correct it. Thank you",Billing,Normal
+Shipping,0.986,High,0.955,Logistics,4,False,T100593,"Dear support, tracking number for order #80505 does not work, urgent.",Shipping,High
+Refund,0.991,Normal,0.983,Finance,24,False,T101529,please refund the 19 euro I paid by mistake.,Refund,Normal
+Account,0.65,Low,0.936,Customer success,72,False,T101465,"Hi team, need to change the owner of the company account, no rush. Also the package arrived damaged. Kind regards",Account,Low
+Account,0.963,High,0.982,Customer success,4,False,T101147,"Good morning, please change the email address on my account, asap. Kind regards",Account,High
+Refund,0.464,Normal,0.948,Finance,24,True,T102290,"Dear support, how long does a refund take after the return. Also error 500 when I try to export the report. Thanks",Refund,Normal
+Shipping,0.946,Normal,0.97,Logistics,24,False,T101694,"Dear support, parcel was delivered to the wrong address. Thanks",Shipping,Normal
+Technical,0.996,Normal,0.975,Tech support,24,False,T101719,error 502 when I try to export the report.,Technical,Normal
+Technical,0.906,High,0.905,Tech support,4,False,T101809,"Dear support, sync with Shopify stopped working yesterday, urgent. Kind regards",Technical,High
+Shipping,0.983,Normal,0.97,Logistics,24,False,T102534,tracking number for order #65612 does not wokr.,Shipping,Normal
+Billing,0.844,Normal,0.965,Finance,24,False,T100350,I was charged twice for my Pro subscription this month. Also please delete my account and my data. Thanks,Billing,Normal
+Billing,0.968,Normal,0.978,Finance,24,False,T102499,"Hi team, why did my card get charged 49 euro when I cancelled.",Billing,Normal
+Billing,0.987,Normal,0.95,Finance,24,False,T100568,"invoice INV-6891 shows the wrong amount, please correct it.",Billing,Normal
+Billing,0.97,Normal,0.98,Finance,24,False,T100318,"Good morning, payment failed but money left my account.",Billing,Normal
+Billing,0.784,Low,0.894,Finance,72,False,T102054,"Dear support, why did my card get charged 19 euro when I cancelled, just a question. Also returned the item 7 days ago and still no refund.",Billing,Low
+Billing,0.964,Normal,0.97,Finance,24,False,T102062,"Hi team, I was chraged twice for my Team subscription this month.",Billing,Normal
+Technical,0.988,Normal,0.97,Tech support,24,False,T101701,sync with Outlook stopped working yesterday. Best regards,Technical,Normal
+Billing,0.524,Normal,0.962,Finance,24,True,T101921,"Good morning, the VAT on my last invoice looks wrong. Also please change the email address on my account. Thanks",Billing,Normal
+Technical,0.975,Normal,0.979,Tech support,24,False,T100119,page is very slow and times out after 30 seconds. Best regards,Technical,Normal
+Technical,0.911,Low,0.979,Tech support,72,False,T102027,"Good morning, the app crashes when I open the billing page, when you have time. Thanks",Technical,Low
+Billing,0.989,High,0.955,Finance,4,False,T102937,"Hello, invoice INV-7041 shows the wrong amount, please correct it, blocked.",Billing,High
+Billing,0.952,High,0.984,Finance,4,False,T102800,"payment failed but money left my account, blocked. Thank you",Billing,High
+Shipping,0.994,Normal,0.975,Logistics,24,False,T102203,"Good morning, my order #51396 has not arrived after 7 days.",Shipping,Normal
+Refund,0.985,Normal,0.976,Finance,24,False,T101722,"refund was only partial, 19 euro are missing.",Refund,Normal
+Billing,0.925,High,0.918,Finance,4,False,T100291,"why did my card get charged 120 euro wehn I cancelled, blocked. Thank you",Billing,High
+Billing,0.965,High,0.974,Finance,4,False,T102436,"why did my card get charged 49 euro when I cancelled, immediately. Best regards",Billing,High
+Billing,0.971,Normal,0.943,Finance,24,False,T100900,"Hello, invoice NIV-3486 shows the wrong amount, please correct it.",Billing,Normal
+Refund,0.804,High,0.873,Finance,4,False,T102720,"Hi team, cancel my order #60662 and refund the payment, blocked. Also parcel was delivered to the wrong dadress. Best regards",Refund,High
+Account,0.959,Normal,0.982,Customer success,24,False,T100870,need to change the owner of the company account. Best regards,Account,Normal
+Account,0.534,Low,0.964,Customer success,72,True,T100646,"Hello, need to change the owner of the company account, when you have time. Also the package arrived damaged. Kind regards",Account,Low
+Refund,0.978,High,0.951,Finance,4,False,T101815,"Dear support, please refund the 240 euro I paid by mistake, asap. Kind regards",Refund,High
+Refund,0.925,Normal,0.958,Finance,24,False,T102466,"Dear support, refund was only patrial, 240 euro are missing. Thank you",Refund,Normal
+Refund,0.987,High,0.983,Finance,4,False,T101640,"cancel my order #81808 and refund the payment, urgent. Thank you",Billing,High
+Technical,0.649,High,0.893,Tech support,4,False,T102770,"Hi team, returned the item 3 days ago and still no refund, cannot work. Also error 500 when I try to export the report. Best regards",Refund,High
+Refund,0.987,High,0.97,Finance,4,False,T102511,"Hi team, returned the item 10 days ago and still no refund, blocked. Thanks",Refund,High
+Account,0.961,Normal,0.976,Customer success,24,False,T101063,"Hi team, my account is locked after too many attempts. Thanks",Account,Normal
+Shipping,0.757,Normal,0.957,Logistics,24,False,T100404,"Hello, when will order #91094 be shipped. Also login works but the reports button does nothing. Thanks",Shipping,Normal
+Account,0.946,Normal,0.976,Customer success,24,False,T102823,how do I add a new uesr to our team account.,Account,Normal
+Technical,0.991,Normal,0.98,Tech support,24,False,T100210,"Hello, error 403 when I try to export the report. Thanks",Technical,Normal
+Technical,0.85,High,0.957,Tech support,4,False,T101474,"Good morning, the app crashes when I open the settings page, today.",Technical,High
+Refund,0.991,High,0.94,Finance,4,False,T102878,"Dear support, cancel my order #83674 and refund the payment, today.",Refund,High
+Shipping,0.992,High,0.969,Logistics,4,False,T102265,"can I change the delivery address for order #35484, immediately.",Shipping,High
+Shipping,0.99,Low,0.992,Logistics,72,False,T101343,"when will order #28180 be shipped, no rush. Thank you",Shipping,Low
+Technical,0.959,High,0.958,Tech support,4,False,T102715,"Good morning, error 500 when I try to export the report, today. Thank you",Technical,High
+Account,0.98,Normal,0.974,Customer success,24,False,T101309,"Hi team, I cannot reset my password, the link expired. Thank you",Account,Normal
+Shipping,0.985,High,0.92,Logistics,4,False,T102118,"Hi team, can I change the delivery address for order #57197, urgent. Kind regards",Shipping,High
+Technical,0.986,Normal,0.96,Tech support,24,False,T102854,"Dear support, dashboard is not loading since the last update.",Technical,Normal
+Refund,0.964,Low,0.972,Finance,72,False,T100918,"I want a refund for odrer #62297, the product is faulty, no rush.",Refund,Low
+Account,0.982,Normal,0.961,Customer success,24,False,T102817,please change the email address on my account.,Account,Normal
+Shipping,0.774,Normal,0.963,Logistics,24,False,T100942,"Good morning, when will order #76211 be shipped. Also please refund the 49 euro I paid by mistake. Thank you",Shipping,Normal
+Technical,0.917,Normal,0.955,Tech support,24,False,T100936,"Hello, sync with Shopify stopped working yesterday. Thank you",Technical,Normal
+Billing,0.477,High,0.94,Finance,4,True,T101478,"payment failed but money left my account, blocked. Also how long does a refund take after the return. Thank you",Billing,High
+Refund,0.987,Normal,0.965,Finance,24,False,T100375,please refund the 240 euro I paid by mistake. Thanks,Refund,Normal
+Billing,0.981,Normal,0.974,Finance,24,False,T102070,"Dear support, why did my card get charged 240 euro when I cancelled. Kind regards",Billing,Normal
+Shipping,0.987,High,0.977,Logistics,4,False,T100770,"Good morning, the package arrived damaged, cannot work. Best regards",Shipping,High
+Technical,0.532,High,0.92,Tech support,4,True,T100146,"Hi team, page is very slow and times out after 30 seconds, blocked. Also please delete my account and my data. Kind regards",Technical,High
+Refund,0.941,Normal,0.958,Finance,24,False,T100143,"Hello, returned the item 10 days ago and tsill no refund. Best regards",Refund,Normal
+Shipping,0.991,Normal,0.969,Logistics,24,False,T100094,"Hello, can I change the delivery address for order #61543. Thanks",Shipping,Normal
+Technical,0.875,Low,0.938,Tech support,72,False,T101257,"dashboard is not loading since the last update, quick question. Also returned the item 7 days ago and still no refund. Kind regards",Technical,Low
+Account,0.941,Normal,0.975,Customer success,24,False,T101252,"Good morning, need to change the owenr of the company account. Thanks",Account,Normal
+Billing,0.961,Normal,0.956,Finance,24,False,T101877,"Hi team, invoice INV-5230 shows the wrong amount, please correct it. Thanks",Billing,Normal
+Shipping,0.99,Normal,0.95,Logistics,24,False,T102801,tracking number for order #64883 does not work.,Shipping,Normal
+Technical,0.996,Normal,0.982,Tech support,24,False,T102724,"Hello, error 403 when I try to export the report.",Technical,Normal
+Account,0.947,Low,0.998,Customer success,72,False,T102056,"please change the email address on my account, just a question.",Account,Low
+Account,0.982,Normal,0.961,Customer success,24,False,T100612,please change the email address on my account.,Account,Normal
+Billing,0.978,High,0.938,Finance,4,False,T102432,"Hello, why did my card get charged 240 euro when I cancelled, today. Best regards",Billing,High
+Shipping,0.629,Low,0.925,Logistics,72,False,T102312,"Good morning, the package arrived damaged, when you have time. Also need a copy of the invoice for May for our accounting. Thank you",Shipping,Low
+Billing,0.997,Normal,0.971,Finance,24,False,T100008,need a copy of the invoice for June for our accounting.,Billing,Normal
+Shipping,0.978,Normal,0.982,Logistics,24,False,T100004,"Hi team, parcel was delivered to the wrong address. Kind regards",Shipping,Normal
+Technical,0.935,Normal,0.969,Tech support,24,False,T102921,page is very slow and times out fater 30 seconds. Thanks,Technical,Normal
+Technical,0.988,High,0.943,Tech support,4,False,T102989,"Dear support, sync with Google Sheets stopped working yesterday, cannot work.",Technical,High
+Account,0.98,Normal,0.972,Customer success,24,False,T102997,please change the email address on my account. Kind regards,Account,Normal
+Billing,0.98,Normal,0.961,Finance,24,False,T102548,"Hello, I was charged twice for my Team subscription this month.",Billing,Normal
+Shipping,0.95,Normal,0.973,Logistics,24,False,T100276,"Dear support, my order #66040 has not arrived after 14 days. Thank you",Shipping,Normal
+Refund,0.994,High,0.946,Finance,4,False,T101562,"refund was only partial, 19 euro are missing, today. Thanks",Refund,High
+Billing,0.969,High,0.948,Finance,4,False,T102443,"Dear support, invoice INV-8333 shows the wrong amount, please correct it, blocked. Best regards",Billing,High
+Shipping,0.99,Normal,0.978,Logistics,24,False,T100130,when will order #96332 be shipped.,Shipping,Normal
+Technical,0.985,High,0.987,Tech support,4,False,T102185,"Hello, dashboard is not loading since the last update, immediately. Kind regards",Technical,High
+Shipping,0.961,High,0.978,Logistics,4,False,T102076,"parcel was delivered to the wrong address, today. Thank you",Shipping,High
+Billing,0.967,Normal,0.975,Finance,24,False,T100197,"Dear support, need a copy of the invoice for May for our accounting. Thank you",Billing,Normal
+Technical,0.968,High,0.977,Tech support,4,False,T100399,"error 500 when I try to export the report, urgent.",Technical,High
+Technical,0.823,Normal,0.965,Tech support,24,False,T101950,sync with Shopify stopped working yesterday. Kind regards,Technical,Normal
+Technical,0.983,High,0.97,Tech support,4,False,T101655,"error 502 when I try to export the report, urgent. Kind regards",Technical,High
+Shipping,0.639,High,0.867,Logistics,4,False,T100679,"tracking number for order #40202 does not work, asap. Also page is very slow and times out after 30 seconds. Best regards",Shipping,High
+Account,0.993,High,0.964,Customer success,4,False,T100615,"Hi team, please delete my account and my data, blocked.",Account,High
+Billing,0.765,High,0.954,Finance,4,False,T100317,"payment failed but money left my account, immediately. Also returned the item 7 days ago and still no refund. Best regards",Billing,High
+Technical,0.976,High,0.947,Tech support,4,False,T102364,"Hi team, login works but the analytics button does nothing, urgent. Thanks",Technical,High
+Technical,0.983,High,0.982,Tech support,4,False,T101654,"page is very slow and times out after 30 seconds, cannot work. Thank you",Technical,High
+Account,0.97,High,0.962,Customer success,4,False,T100773,"Good morning, please delete my account and my data, urgent. Best regards",Account,High
+Billing,0.686,High,0.837,Finance,4,False,T101637,"Hello, invoice INV-8084 shows the wrong amoutn, please correct it, asap. Also error 500 when I try to export the report. Kind regards",Billing,High
+Refund,0.941,Normal,0.972,Finance,24,False,T102369,please refund the 49 euro I paid by mistake. Thanks,Refund,Normal
+Shipping,0.969,High,0.964,Logistics,4,False,T100683,"Good morning, the package arrived damage,d today. Best regards",Shipping,High
+Shipping,0.975,Low,0.961,Logistics,72,False,T100890,"Dear support, my order #82449 has not arrived after 14 days, no rush. Thanks",Shipping,Low
+Technical,0.919,Low,0.969,Tech support,72,False,T102266,"Dear support, sync with Shopify stopped working yesterday, just a question.",Technical,Low
+Shipping,0.98,High,0.958,Logistics,4,False,T101636,"Dear support, when will order #82573 be shipped, urgent. Best regards",Shipping,High
+Billing,0.984,High,0.972,Finance,4,False,T102225,"invoice IVN-7056 shows the wrong amount, please correct it, urgent. Best regards",Billing,High
+Refund,0.979,Low,0.988,Finance,72,False,T102902,"I want a refund for order #40870, the product is faulty, quick question. Thanks",Refund,Low
+Account,0.909,Normal,0.979,Customer success,24,False,T102993,"Hello, I cannot reset my password, the link expired. Best regards",Account,Normal
+Technical,0.975,Normal,0.961,Tech support,24,False,T102624,"Hello, login works but the reports button does nothing.",Technical,Normal
+Technical,0.989,Low,0.986,Tech support,72,False,T101798,"Hello, dashboard is not loading since the last update, quick question. Best regards",Technical,Low
+Billing,0.969,Low,0.954,Finance,72,False,T102899,"why did my card get charged 99 euro when I cancelled, no rush. Kind regards",Billing,Low
+Shipping,0.996,Normal,0.977,Logistics,24,False,T102010,can I change the delivery address for order #19485.,Shipping,Normal
+Technical,0.987,High,0.926,Tech support,4,False,T102115,"Hello, login works but the analytics button does nothing, cannot work. Best regards",Technical,High
+Technical,0.857,High,0.89,Tech support,4,False,T100323,"Good morning, error 404 when I try to export the report, asap. Also how long does a refund take after the return. Best regards",Technical,High
+Shipping,0.989,Normal,0.981,Logistics,24,False,T101369,when will order #77331 be shipped.,Shipping,Normal
+Billing,0.988,Normal,0.963,Finance,24,False,T102895,I was charged twice for my Team subscription this month.,Billing,Normal
+Technical,0.718,Low,0.824,Tech support,72,False,T100221,"Good morning, error 403 when I try to export the report, no rush. Also my account is locked after too many attempts.",Technical,Low
+Shipping,0.991,High,0.96,Logistics,4,False,T101880,"Dear support, when will order #83680 be shipped, blocked. Best regards",Shipping,High
+Technical,0.975,Normal,0.979,Tech support,24,False,T101362,page is very slow and times out after 30 seconds. Best regards,Technical,Normal
+Technical,0.842,High,0.942,Tech support,4,False,T101308,"Hi team, dashboard is not loading since the last update, asap. Also tracking number for order #12345 does not work. Thanks",Technical,High
+Technical,0.962,Low,0.977,Tech support,72,False,T100794,"Hello, login works but the settings button does nothing, just a question. Thanks",Technical,Low
+Shipping,0.992,Low,0.99,Logistics,72,False,T101958,"tracking number for order 7#8160 does not work, when you have time. Best regards",Shipping,Low
+Technical,0.977,Normal,0.963,Tech support,24,False,T102306,"Good morning, page is very slow and times out after 30 seconds.",Technical,Normal
+Shipping,0.984,Normal,0.951,Logistics,24,False,T102374,tracking number for order #55376 does not work. Thank you,Shipping,Normal
+Shipping,0.973,Low,0.99,Logistics,72,False,T100750,"Dear support, tracking nubmer for order #66687 does not work, when you have time. Thank you",Shipping,Low
+Technical,0.973,Low,0.969,Tech support,72,False,T102437,"Good morning, sync with Googel Sheets stopped working yesterday, just a question. Best regards",Technical,Low
+Account,0.971,Low,0.978,Customer success,72,False,T100738,"Hello, my account is locked after too many attempts, when you have time. Thank you",Account,Low
+Account,0.966,Normal,0.98,Customer success,24,False,T102157,"Hello, my account is locked after too many attempts.",Account,Normal
+Billing,0.989,Normal,0.976,Finance,24,False,T100434,need a copy of the invoice for May for our accounting.,Technical,Normal
+Refund,0.918,Normal,0.974,Finance,24,False,T100211,"refund was only partial, 19 euro are missing. Also my account is locked after too many attempts.",Refund,Normal
+Technical,0.973,Normal,0.972,Tech support,24,False,T100908,"Hello, the app crashes when I open the reports page. Best regards",Shipping,Normal
+Shipping,0.979,Normal,0.98,Logistics,24,False,T102201,"Hi team, when will order #30510 be shipped. Best regards",Shipping,Normal
+Technical,0.988,Low,0.982,Tech support,72,False,T100306,"sync with Outlook stopped working yesterday, quick question. Kind regards",Technical,Low
+Technical,0.961,High,0.96,Tech support,4,False,T102361,"Good morning, error 500 when I try to export the report, cannot work. Thanks",Technical,High
+Technical,0.97,Normal,0.966,Tech support,24,False,T102245,"Dear support, the app crashes when I open the reports page. Best regards",Billing,Normal
+Technical,0.922,Low,0.989,Tech support,72,False,T101452,"error 500 when I try to export the report, when you have time. Thanks",Technical,Low
+Shipping,0.953,High,0.983,Logistics,4,False,T102133,"Hello, parcel was delivered to the wrong address, cannot work.",Shipping,High
+Refund,0.915,Normal,0.979,Finance,24,False,T101326,cancel my order #53983 and refund the payment. Best regards,Account,Normal
+Technical,0.978,Normal,0.978,Tech support,24,False,T101797,"Hello, error 500 when I try to export the erport. Best regards",Technical,Normal
+Refund,0.516,Low,0.826,Finance,72,True,T102571,"how long does a refund take after the return, no rush. Also parcel was delivered to the wrong address. Kind regards",Refund,Low
+Technical,0.55,High,0.905,Tech support,4,True,T100707,"Good morning, the app crashes when I open the settings page, today. Also tracking number for order #12345 does not work. Kind regards",Technical,High
+Billing,0.984,Normal,0.964,Finance,24,False,T102097,"Good morning, need a copy of the invoice for April for our accounting. Thank you",Billing,Normal
+Account,0.879,Normal,0.976,Customer success,24,False,T101518,"Hi team, how do I add a new user to our team account.",Account,Normal
+Technical,0.977,High,0.979,Tech support,4,False,T100267,"Dear support, dashboard is not loading since the last update, asap. Thanks",Technical,High
+Technical,0.734,Normal,0.949,Tech support,24,False,T102836,sync with Shopify stopped working yestreday.,Technical,Normal
+Billing,0.995,Normal,0.978,Finance,24,False,T102414,need a copy of the invoice for March for our accounting. Thanks,Billing,Normal
+Shipping,0.983,Low,0.967,Logistics,72,False,T100236,"parcel was delivered to the wrong address, no rush. Kind regards",Shipping,Low
+Technical,0.982,Normal,0.981,Tech support,24,False,T101723,"Dear support, error 403 when I try to export the report. Kind regards",Technical,Normal
+Billing,0.981,High,0.962,Finance,4,False,T101479,"invoice INV-7520 shows the wrong amount, please correct it, blocked. Kind regards",Billing,High
+Account,0.577,Normal,0.958,Customer success,24,True,T100594,"Hi team, cancel my order #27933 and refund the payment. Also please change the email address on my account. Kind regards",Refund,Normal
+Billing,0.977,Low,0.715,Finance,72,False,T101461,"the VAT on my last invoice looks wrong, just a questoin. Thank you",Billing,Low
+Billing,0.944,High,0.973,Finance,4,False,T101835,"Hello, the VAT on my last invoice looks wrong, urgent. Thank you",Billing,High
+Refund,0.962,Normal,0.954,Finance,24,False,T100436,"Good morning, returned the item 10 days ago and still no refund. Best regards",Technical,Normal
+Billing,0.961,High,0.968,Finance,4,False,T100036,"ened a copy of the invoice for May for our accounting, urgent. Thank you",Billing,High
+Technical,0.873,Low,0.926,Tech support,72,False,T100523,"Hello, sync with Outlook stopped working yesterday, just a question. Also the package arrived damaged. Kind regards",Technical,Low
+Technical,0.925,Low,0.985,Tech support,72,False,T101443,"Dear support, page is very slow and times out after 30 seconds, when you have time. Thanks",Technical,Low
+Technical,0.987,Normal,0.98,Tech support,24,False,T102652,error 404 when I try to export the report. Best regards,Technical,Normal
+Technical,0.963,High,0.977,Tech support,4,False,T101484,"Dear support, dashboard is not loading since the last update, blocked. Kind regards",Technical,High
+Shipping,0.974,High,0.989,Logistics,4,False,T100285,"Hello, tracking number for order #64346 does not work, immediately. Kind regards",Shipping,High
+Account,0.947,Low,0.991,Customer success,72,False,T101405,"Hi team, please change the email address on my account, no rush. Best regards",Account,Low
